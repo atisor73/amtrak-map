@@ -19,3 +19,11 @@ Future Improvements:
 - I made some preliminary scatterplots, but there are probably a lot more things you could do.
 
 Pull requests are welcome! 
+
+
+*Note: Everything was done and verified by hand except for the mileage approximations, which were approximated with GPT5.2.*
+
+<!-- Links:
+https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/privatecars/Amtrak-Mileage-Record-Information-100124.pdf
+https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/corporate/monthlyperformancereports/2025/Amtrak-Monthly-Performance-Report-September-2025.pdf
+https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/amtrak-ridership -->
