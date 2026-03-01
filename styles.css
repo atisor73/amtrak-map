@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+
+}
+
+#map-container {
+    width: 92%;
+    max-width: 1100px; /* scale to screen */
+    margin: auto;
+    padding-top: 0px;
+}
+
+svg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+#toggle-routes, #opacity-slider {
+    accent-color: #565656;  /* dark gray instead of blue */
+}
+
+
+.route {
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+#controls {
+    padding: 10px;
+    margin-left: 200px;
+    background: #ffffff;
+    gap: 500px;
+}
+#controls.label {
+    padding-right: 400px;
+}
+
+
+.tooltip {
+    position: absolute;
+    pointer-events: auto;  /*none*//* mouse can pass through */
+    background: white;
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-size: 8px;
+    z-index: 1000;
+    max-width: 300px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+    border-radius: 4px;
+
+    }
+.tooltip table {
+width: 100%;
+border-collapse: collapse;
+}
+.tooltip td {
+padding: 2px 4px;
+vertical-align: top;
+}
+.tooltip td:first-child {
+font-weight: bold;
+text-align: right;
+}
+
+body, svg, .tooltip {
+    font-family: "Courier New", monospace;
+}
