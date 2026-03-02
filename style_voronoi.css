@@ -1,0 +1,60 @@
+body { font-family: sans-serif; }
+svg {
+    padding: 10px;
+    margin-left: 40px;
+    }
+.top-row {
+    display: flex;
+    align-items: center;       /* vertically center the items */
+    gap: 20px;                 /* space between button and description */
+    margin: 15px 0 5px 40px;   /* top:15px, right:0, bottom:5px, left:40px */
+    }
+
+.top-row a button {
+padding: 6px 12px;
+font-size: 14px;
+cursor: pointer;
+}
+
+.description-box {
+width:300px!;
+min-width: 200px;           /* optional: ensures box doesn’t shrink too small */
+max-width: 500px;           /* optional: cap max width */
+background: #f0f2f5;
+border-radius: 8px;
+padding: 8px 12px;       /* less padding inside the box */
+font-size: 16px;
+font-weight: 500;
+color: #333;
+flex: 1;                 /* description takes remaining space */
+}
+
+.svg-wrapper {
+    display: flex;
+    flex-direction: column;   /* stack children vertically */
+    align-items: flex-start;  /* aligns button/SVG to left; change to center if desired */
+    gap: 10px;                /* space between button and SVG */
+    margin-left: 40px;        /* move the whole group right if desired */
+}
+
+#toggle-text {
+    padding: 6px 12px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    background: #fafafa;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    margin-left: 300px;
+}
+
+#toggle-text:hover {
+    background: #e8edf7;
+    border-color: #6a8cff;
+}
+
+/* text { font-family: "Courier New", monospace; font-size: 12px; text-anchor: middle; dominant-baseline: middle; } */
+
+
+
+

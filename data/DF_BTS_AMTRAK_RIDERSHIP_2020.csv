@@ -1,0 +1,518 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2020,,4871.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Birmingham, Alabama",2020,,17474.0,Birmingham,Alabama,Birmingham
+Alabama,"Anniston, Alabama",2020,,2369.0,Anniston,Alabama,Anniston
+Arizona,"Yuma, Arizona",2020,,3366.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2020,,2437.0,Winslow,Arizona,Winslow
+Arizona,"Tucson, Arizona",2020,,15715.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2020,,7843.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2020,,5536.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2020,,20981.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2020,,1218.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2020,,1975.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2020,,3420.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2020,,1038.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2020,,10538.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Hope, Arkansas",2020,,1013.0,Hope,Arkansas,Hope
+Arkansas,"Arkadelphia, Arkansas",2020,,811.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Wasco, California",2020,,26997.0,Wasco,California,Wasco
+California,"Victorville, California",2020,,3680.0,Victorville,California,Victorville
+California,"Ventura, California",2020,,41907.0,Ventura,California,Ventura
+California,"Van Nuys, California",2020,,34754.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2020,,18729.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2020,,9138.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2020,,70243.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Stockton (San Joaquin St.), California",2020,,183931.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2020,,8818.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Solana Beach, California",2020,,165202.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2020,,23948.0,Simi Valley,California,Simi Valley
+California,"Santa Clara (University), California",2020,,33870.0,Santa Clara (University),California,Santa Clara (University)
+California,"Santa Barbara, California",2020,,160074.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2020,,72968.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2020,,48229.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2020,,90699.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2020,,125113.0,San Jose,California,San Jose
+California,"San Diego, California",2020,,319689.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2020,,174880.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2020,,6707.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2020,,6736.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2020,,11469.0,Salinas,California,Salinas
+California,"Sacramento, California",2020,,565196.0,Sacramento,California,Sacramento
+California,"Roseville, California",2020,,21274.0,Roseville,California,Roseville
+California,"Rocklin, California",2020,,8793.0,Rocklin,California,Rocklin
+California,"Riverside, California",2020,,6706.0,Riverside,California,Riverside
+California,"Richmond, California",2020,,155109.0,Richmond,California,Richmond
+California,"Redding, California",2020,,7801.0,Redding,California,Redding
+California,"Pomona, California",2020,,1097.0,Pomona,California,Pomona
+California,"Paso Robles, California",2020,,6549.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2020,,2217.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2020,,49530.0,Oxnard,California,Oxnard
+California,"Ontario, California",2020,,2662.0,Ontario,California,Ontario
+California,"Oceanside, California",2020,,142524.0,Oceanside,California,Oceanside
+California,"Oakland, California",2020,,211617.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2020,,41310.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2020,,5682.0,Needles,California,Needles
+California,"Moorpark, California",2020,,7686.0,Moorpark,California,Moorpark
+California,"Modesto, California",2020,,70147.0,Modesto,California,Modesto
+California,"Merced, California",2020,,78318.0,Merced,California,Merced
+California,"Martinez, California",2020,,197953.0,Martinez,California,Martinez
+California,"Madera, California",2020,,16854.0,Madera,California,Madera
+California,"Los Angeles, California",2020,,708925.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2020,,5093.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2020,,4639.0,Lodi,California,Lodi
+California,"Irvine, California",2020,,184298.0,Irvine,California,Irvine
+California,"Hayward, California",2020,,38591.0,Hayward,California,Hayward
+California,"Hanford, California",2020,,93645.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2020,,5929.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2020,,8815.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2020,,100196.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2020,,57055.0,Goleta,California,Goleta
+California,"Glendale, California",2020,,22226.0,Glendale,California,Glendale
+California,"Fullerton, California",2020,,129611.0,Fullerton,California,Fullerton
+California,"Fresno, California",2020,,194144.0,Fresno,California,Fresno
+California,"Fremont, California",2020,,23234.0,Fremont,California,Fremont
+California,"Fairfield-Vacaville, California",2020,,61003.0,Fairfield-Vacaville,California,Fairfield-Vacaville
+California,"Emeryville, California",2020,,279498.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2020,,3680.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2020,,194029.0,Davis,California,Davis
+California,"Corcoran, California",2020,,17610.0,Corcoran,California,Corcoran
+California,"Colfax, California",2020,,3370.0,Colfax,California,Colfax
+California,"Chico, California",2020,,7544.0,Chico,California,Chico
+California,"Chatsworth, California",2020,,28853.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2020,,15585.0,Carpinteria,California,Carpinteria
+California,"Camarillo, California",2020,,27819.0,Camarillo,California,Camarillo
+California,"Burbank, California",2020,,32607.0,Burbank,California,Burbank
+California,"Berkeley, California",2020,,83958.0,Berkeley,California,Berkeley
+California,"Barstow, California",2020,,2457.0,Barstow,California,Barstow
+California,"Bakersfield, California",2020,,250609.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2020,,6730.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2020,,22331.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2020,,112054.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2020,,8042.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Winter Park Resort (seasonal), Colorado",2020,,17114.0,Winter Park Resort (seasonal),Colorado,Winter Park Resort (seasonal)
+Colorado,"Trinidad, Colorado",2020,,3859.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2020,,1028.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2020,,4583.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2020,,19071.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2020,,2904.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2020,,25828.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2020,,2153.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2020,,89764.0,Denver,Colorado,Denver
+Connecticut,"Windsor, Connecticut",2020,,8532.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2020,,12768.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2020,,5164.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2020,,210417.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2020,,33980.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2020,,83353.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2020,,425723.0,New Haven,Connecticut,New Haven
+Connecticut,"New Haven State Street, Connecticut",2020,,2273.0,New Haven State Street,Connecticut,New Haven State Street
+Connecticut,"Mystic, Connecticut",2020,,14623.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2020,,10244.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2020,,93865.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2020,,54364.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2020,,11224.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2020,,348457.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2020,,7101.0,Newark,Delaware,Newark
+District of Columbia,"Washington Union Station, District of Columbia",2020,,2606059.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2020,,14828.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2020,,13321.0,Winter Haven,Florida,Winter Haven
+Florida,"West Palm Beach, Florida",2020,,32819.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Tampa, Florida",2020,,65718.0,Tampa,Florida,Tampa
+Florida,"Sebring, Florida",2020,,9166.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2020,,163468.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Palatka, Florida",2020,,7723.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2020,,72267.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2020,,2809.0,Okeechobee,Florida,Okeechobee
+Florida,"Miami, Florida",2020,,39123.0,Miami,Florida,Miami
+Florida,"Lakeland, Florida",2020,,10733.0,Lakeland,Florida,Lakeland
+Florida,"Kissimmee, Florida",2020,,20757.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2020,,39872.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2020,,13067.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2020,,26357.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2020,,8829.0,Delray Beach,Florida,Delray Beach
+Florida,"DeLand, Florida",2020,,12338.0,DeLand,Florida,DeLand
+Florida,"Deerfield Beach, Florida",2020,,12262.0,Deerfield Beach,Florida,Deerfield Beach
+Georgia,"Toccoa, Georgia",2020,,1375.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2020,,33600.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2020,,6051.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2020,,3157.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2020,,41277.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2020,,4186.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2020,,9607.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2020,,79796.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2020,,3597.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2020,,19497.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2020,,19189.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2020,,7366.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2020,,3588.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2020,,22563.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2020,,12322.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2020,,19908.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2020,,33061.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2020,,11764.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2020,,6673.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2020,,9128.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2020,,14689.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2020,,35319.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2020,,22994.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2020,,31551.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2020,,1365.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2020,,50273.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2020,,12713.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2020,,5249.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2020,,4389.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2020,,1688452.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2020,,113548.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2020,,11132.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2020,,5521.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2020,,50761.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2020,,116921.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2020,,29749.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2020,,11559.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2020,,12724.0,South Bend,Indiana,South Bend
+Indiana,"Rensselaer, Indiana",2020,,482.0,Rensselaer,Indiana,Rensselaer
+Indiana,"Michigan City, Indiana",2020,,1136.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2020,,2984.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2020,,7373.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2020,,2413.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2020,,14693.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2020,,1090.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2020,,1244.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connersville, Indiana",2020,,366.0,Connersville,Indiana,Connersville
+Iowa,"Ottumwa, Iowa",2020,,6661.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2020,,8305.0,Osceola,Iowa,Osceola
+Iowa,"Mount Pleasant, Iowa",2020,,5929.0,Mount Pleasant,Iowa,Mount Pleasant
+Iowa,"Fort Madison, Iowa",2020,,3327.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2020,,1933.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2020,,5446.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2020,,5380.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2020,,8618.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2020,,4973.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2020,,2661.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2020,,4119.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2020,,3112.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2020,,658.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2020,,1475.0,Maysville,Kentucky,Maysville
+Kentucky,"Fulton, Kentucky",2020,,2199.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2020,,1210.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2020,,2644.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2020,,710.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2020,,84767.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2020,,926.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2020,,2148.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2020,,3397.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2020,,5537.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2020,,24680.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2020,,25879.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2020,,73223.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2020,,2012.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maine,"Freeport, Maine",2020,,9322.0,Freeport,Maine,Freeport
+Maine,"Brunswick, Maine",2020,,20273.0,Brunswick,Maine,Brunswick
+Maryland,"Rockville, Maryland",2020,,,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2020,,100823.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2020,,6347.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2020,,385975.0,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2020,,538330.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2020,,16891.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2020,,4564.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2020,,6306.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2020,,72024.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2020,,230024.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2020,,6619.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Northampton, Massachusetts",2020,,10943.0,Northampton,Massachusetts,Northampton
+Massachusetts,"Holyoke, Massachusetts",2020,,774.0,Holyoke,Massachusetts,Holyoke
+Massachusetts,"Haverhill, Massachusetts",2020,,22579.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Greenfield, Massachusetts",2020,,3823.0,Greenfield,Massachusetts,Greenfield
+Massachusetts,"Framingham, Massachusetts",2020,,1083.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-South Station, Massachusetts",2020,,793113.0,Boston-South Station,Massachusetts,Boston-South Station
+Massachusetts,"Boston-North Station, Massachusetts",2020,,219491.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2020,,355279.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Michigan,"Troy, Michigan",2020,,17928.0,Troy,Michigan,Troy
+Michigan,"St. Joseph/Benton Harbor, Michigan",2020,,6717.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2020,,13169.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2020,,8123.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2020,,8139.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2020,,9047.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2020,,11328.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2020,,4940.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2020,,57958.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2020,,11741.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2020,,17524.0,Holland,Michigan,Holland
+Michigan,"Grand Rapids, Michigan",2020,,21236.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2020,,15926.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2020,,38070.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2020,,6863.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2020,,2453.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2020,,39252.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2020,,36622.0,Dearborn,Michigan,Dearborn
+Michigan,"Battle Creek, Michigan",2020,,21026.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2020,,2014.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2020,,77886.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2020,,1344.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2020,,8378.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2020,,4050.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2020,,48359.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2020,,5953.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2020,,4695.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Detroit Lakes, Minnesota",2020,,3150.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Yazoo City, Mississippi",2020,,2130.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2020,,1128.0,Picayune,Mississippi,Picayune
+Mississippi,"Meridian, Mississippi",2020,,4860.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2020,,3178.0,McComb,Mississippi,McComb
+Mississippi,"Marks, Mississippi",2020,,1871.0,Marks,Mississippi,Marks
+Mississippi,"Laurel, Mississippi",2020,,2035.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2020,,25020.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2020,,875.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2020,,4655.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Greenwood, Mississippi",2020,,8385.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2020,,2449.0,Brookhaven,Mississippi,Brookhaven
+Missouri,"Washington, Missouri",2020,,7191.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2020,,6135.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2020,,174773.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2020,,4612.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2020,,3301.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2020,,13979.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2020,,6184.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2020,,24650.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2020,,82590.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2020,,20616.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2020,,3489.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2020,,11790.0,Hermann,Missouri,Hermann
+Missouri,"Arcadia, Missouri",2020,,788.0,Arcadia,Missouri,Arcadia
+Montana,"Wolf Point, Montana",2020,,3030.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2020,,34919.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2020,,2196.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2020,,4964.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2020,,2806.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2020,,3109.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2020,,6284.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2020,,3099.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2020,,2255.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2020,,836.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2020,,1204.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2020,,1044.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Omaha, Nebraska",2020,,14975.0,Omaha,Nebraska,Omaha
+Nebraska,"McCook, Nebraska",2020,,2211.0,McCook,Nebraska,McCook
+Nebraska,"Lincoln, Nebraska",2020,,8805.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2020,,879.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2020,,2967.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2020,,3409.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Reno, Nevada",2020,,48294.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2020,,5885.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2020,,44647.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2020,,31476.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2020,,29803.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2020,,1131.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2020,,211156.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2020,,15118.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2020,,367861.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2020,,74403.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2020,,2193.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2020,,183954.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2020,,6121.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2020,,455.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2020,,3054.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy (Santa Fe), New Mexico",2020,,4895.0,Lamy (Santa Fe),New Mexico,Lamy (Santa Fe)
+New Mexico,"Gallup, New Mexico",2020,,8504.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2020,,828.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2020,,38315.0,Albuquerque,New Mexico,Albuquerque
+New York,"Yonkers, New York",2020,,21390.0,Yonkers,New York,Yonkers
+New York,"Whitehall, New York",2020,,648.0,Whitehall,New York,Whitehall
+New York,"Westport, New York",2020,,1467.0,Westport,New York,Westport
+New York,"Utica, New York",2020,,42319.0,Utica,New York,Utica
+New York,"Syracuse, New York",2020,,82067.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2020,,40006.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2020,,16543.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rouses Point, New York",2020,,540.0,Rouses Point,New York,Rouses Point
+New York,"Rome, New York",2020,,5426.0,Rome,New York,Rome
+New York,"Rochester, New York",2020,,83655.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2020,,110703.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2020,,65910.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Port Kent, New York",2020,,0.0,Port Kent,New York,Port Kent
+New York,"Port Henry, New York",2020,,1291.0,Port Henry,New York,Port Henry
+New York,"Plattsburgh, New York",2020,,5854.0,Plattsburgh,New York,Plattsburgh
+New York,"Niagara Falls, New York",2020,,15983.0,Niagara Falls,New York,Niagara Falls
+New York,"New York City (Penn Station), New York",2020,,5432851.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2020,,51730.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2020,,131357.0,Hudson,New York,Hudson
+New York,"Fort Ticonderoga, New York",2020,,557.0,Fort Ticonderoga,New York,Fort Ticonderoga
+New York,"Fort Edward, New York",2020,,3394.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2020,,25891.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2020,,29135.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2020,,60926.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2020,,7909.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2020,,450965.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2020,,32449.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2020,,4088.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2020,,7567.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2020,,12511.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2020,,30139.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2020,,96337.0,Raleigh,North Carolina,Raleigh
+North Carolina,"Kannapolis, North Carolina",2020,,11809.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2020,,18646.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2020,,2526.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2020,,75378.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2020,,909.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2020,,31344.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2020,,46126.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2020,,112315.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2020,,41755.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2020,,12596.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2020,,17889.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2020,,2960.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2020,,2293.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2020,,16469.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2020,,7674.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2020,,12408.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2020,,2560.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Toledo, Ohio",2020,,31735.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2020,,5360.0,Sandusky,Ohio,Sandusky
+Ohio,"Elyria, Ohio",2020,,5098.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2020,,32704.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2020,,5451.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2020,,3252.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2020,,2529.0,Alliance,Ohio,Alliance
+Oklahoma,"Purcell, Oklahoma",2020,,1047.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2020,,2314.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2020,,28761.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2020,,6951.0,Norman,Oklahoma,Norman
+Oklahoma,"Ardmore, Oklahoma",2020,,4435.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2020,,33141.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2020,,280316.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2020,,6905.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2020,,19581.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2020,,50005.0,Eugene,Oregon,Eugene
+Oregon,"Chemult, Oregon",2020,,5455.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2020,,19082.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2020,,1500.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2020,,75813.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia-North, Pennsylvania",2020,,917.0,Philadelphia-North,Pennsylvania,Philadelphia-North
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2020,,2261194.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2020,,23244.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2020,,125104.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"Mount Joy, Pennsylvania",2020,,26004.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2020,,33404.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2020,,4706.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2020,,2293.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2020,,298202.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2020,,12265.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2020,,3337.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2020,,267349.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2020,,6578.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2020,,70003.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2020,,10175.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2020,,46517.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2020,,38891.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2020,,1054.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2020,,2656.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2020,,9186.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2020,,34001.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2020,,10892.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2020,,19113.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2020,,389627.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2020,,81369.0,Kingston,Rhode Island,Kingston
+South Carolina,"Yemassee, South Carolina",2020,,5710.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2020,,2310.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2020,,6101.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2020,,6103.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2020,,23851.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2020,,3435.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2020,,1887.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2020,,17145.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2020,,2259.0,Clemson,South Carolina,Clemson
+South Carolina,"Charleston, South Carolina",2020,,37227.0,Charleston,South Carolina,Charleston
+South Carolina,"Camden, South Carolina",2020,,1934.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2020,,2223.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2020,,32662.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2020,,8931.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2020,,2988.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2020,,151.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2020,,4415.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2020,,29235.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2020,,3646.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2020,,2890.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2020,,4305.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2020,,18882.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2020,,11616.0,Houston,Texas,Houston
+Texas,"Gainesville, Texas",2020,,3943.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2020,,64785.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2020,,8896.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2020,,883.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2020,,27272.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2020,,2397.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2020,,1885.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2020,,18073.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2020,,3010.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2020,,24863.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2020,,3199.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2020,,1311.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2020,,1401.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2020,,566.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2020,,5934.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2020,,2775.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2020,,1735.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2020,,6706.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2020,,984.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2020,,3791.0,Montpelier,Vermont,Montpelier
+Vermont,"Essex Junction, Vermont",2020,,11070.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Castleton, Vermont",2020,,1929.0,Castleton,Vermont,Castleton
+Vermont,"Brattleboro, Vermont",2020,,7844.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2020,,2099.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Woodbridge, Virginia",2020,,7453.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2020,,28872.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2020,,3565.0,Staunton,Virginia,Staunton
+Virginia,"Roanoke, Virginia",2020,,35396.0,Roanoke,Virginia,Roanoke
+Virginia,"Richmond - Staples Mill, Virginia",2020,,201624.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2020,,30125.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2020,,11057.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2020,,22020.0,Petersburg,Virginia,Petersburg
+Virginia,"Norfolk, Virginia",2020,,53853.0,Norfolk,Virginia,Norfolk
+Virginia,"Newport News, Virginia",2020,,52175.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2020,,15528.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2020,,31361.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2020,,163468.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2020,,40873.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Danville, Virginia",2020,,4869.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2020,,9119.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2020,,1156.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2020,,74885.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Burke Centre, Virginia",2020,,5688.0,Burke Centre,Virginia,Burke Centre
+Virginia,"Ashland, Virginia",2020,,15585.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2020,,112231.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2020,,826.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2020,,9356.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2020,,53467.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2020,,17302.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2020,,59143.0,Tacoma,Washington,Tacoma
+Washington,"Stanwood, Washington",2020,,2134.0,Stanwood,Washington,Stanwood
+Washington,"Spokane, Washington",2020,,29007.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2020,,289180.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2020,,13832.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2020,,34995.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2020,,6418.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2020,,6044.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2020,,17015.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2020,,20491.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2020,,2500.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2020,,13085.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2020,,14471.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2020,,2133.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2020,,23494.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2020,,4038.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2020,,220.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2020,,1353.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2020,,228.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2020,,7347.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2020,,3743.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2020,,2660.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2020,,4322.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston*, West Virginia",2020,,5120.0,Charleston*,West Virginia,Charleston*
+West Virginia,"Alderson, West Virginia",2020,,198.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2020,,8559.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2020,,8151.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2020,,36178.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2020,,4268.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2020,,311350.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2020,,74162.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2020,,15450.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2020,,7103.0,Columbus,Wisconsin,Columbus

@@ -1,0 +1,524 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2018,,10228.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Birmingham, Alabama",2018,,40585.0,Birmingham,Alabama,Birmingham
+Alabama,"Anniston, Alabama",2018,,3833.0,Anniston,Alabama,Anniston
+Arizona,"Williams Junction, Arizona",2018,Service discontinued as of 1/1/18,2032.0,Williams Junction,Arizona,Williams Junction
+Arizona,"Yuma, Arizona",2018,,4525.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2018,,4345.0,Winslow,Arizona,Winslow
+Arizona,"Tucson, Arizona",2018,,28183.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2018,,11744.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2018,,9065.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2018,,43421.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2018,,1939.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2018,,3421.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2018,,6133.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2018,,1693.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2018,,19406.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Hope, Arkansas",2018,,1650.0,Hope,Arkansas,Hope
+Arkansas,"Arkadelphia, Arkansas",2018,,1433.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Encinitas, California",2018,"Service ended on 10/9/17, during Fiscal 2018",122.0,Encinitas,California,Encinitas
+California,"Carlsbad Poinsettia, California",2018,"Service ended on 10/9/17, during Fiscal 2018",120.0,Carlsbad Poinsettia,California,Carlsbad Poinsettia
+California,"Fairfield-Vacaville, California",2018,"Service added on 11/13/17, during Fiscal 2018",53375.0,Fairfield-Vacaville,California,Fairfield-Vacaville
+California,"Stockton (San Joaquin St.), California",2018,San Joaquin St.,289116.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2018,Downtown,24602.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Wasco, California",2018,,36559.0,Wasco,California,Wasco
+California,"Victorville, California",2018,,5911.0,Victorville,California,Victorville
+California,"Ventura, California",2018,,91741.0,Ventura,California,Ventura
+California,"Van Nuys, California",2018,,74209.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2018,,30492.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2018,,15251.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2018,,140394.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Sorrento Valley, California",2018,,21413.0,Sorrento Valley,California,Sorrento Valley
+California,"Solana Beach, California",2018,,388823.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2018,,43456.0,Simi Valley,California,Simi Valley
+California,"Santa Clara (University), California",2018,,56127.0,Santa Clara (University),California,Santa Clara (University)
+California,"Santa Barbara, California",2018,,365077.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2018,,191609.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2018,,70090.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2018,,237776.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2018,,230387.0,San Jose,California,San Jose
+California,"San Diego, California",2018,,699430.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2018,,350518.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2018,,14592.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2018,,10861.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2018,,19242.0,Salinas,California,Salinas
+California,"Sacramento, California",2018,,1089223.0,Sacramento,California,Sacramento
+California,"Roseville, California",2018,,38852.0,Roseville,California,Roseville
+California,"Rocklin, California",2018,,16918.0,Rocklin,California,Rocklin
+California,"Riverside, California",2018,,11862.0,Riverside,California,Riverside
+California,"Richmond, California",2018,,289928.0,Richmond,California,Richmond
+California,"Redding, California",2018,,9822.0,Redding,California,Redding
+California,"Pomona, California",2018,,1540.0,Pomona,California,Pomona
+California,"Paso Robles, California",2018,,10769.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2018,,2925.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2018,,103074.0,Oxnard,California,Oxnard
+California,"Ontario, California",2018,,4655.0,Ontario,California,Ontario
+California,"Oceanside, California",2018,,432838.0,Oceanside,California,Oceanside
+California,"Oakland, California",2018,,388533.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2018,,87842.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2018,,9124.0,Needles,California,Needles
+California,"Moorpark, California",2018,,18298.0,Moorpark,California,Moorpark
+California,"Modesto, California",2018,,112292.0,Modesto,California,Modesto
+California,"Merced, California",2018,,126793.0,Merced,California,Merced
+California,"Martinez, California",2018,,346051.0,Martinez,California,Martinez
+California,"Madera, California",2018,,28384.0,Madera,California,Madera
+California,"Los Angeles, California",2018,,1717405.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2018,,5946.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2018,,9278.0,Lodi,California,Lodi
+California,"Irvine, California",2018,,438553.0,Irvine,California,Irvine
+California,"Hayward, California",2018,,57815.0,Hayward,California,Hayward
+California,"Hanford, California",2018,,190403.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2018,,8706.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2018,,12447.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2018,,176925.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2018,,108414.0,Goleta,California,Goleta
+California,"Glendale, California",2018,,43351.0,Glendale,California,Glendale
+California,"Fullerton, California",2018,,304880.0,Fullerton,California,Fullerton
+California,"Fresno, California",2018,,377709.0,Fresno,California,Fresno
+California,"Fremont, California",2018,,44371.0,Fremont,California,Fremont
+California,"Emeryville, California",2018,,595017.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2018,,4654.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2018,,390060.0,Davis,California,Davis
+California,"Corcoran, California",2018,,24646.0,Corcoran,California,Corcoran
+California,"Colfax, California",2018,,5658.0,Colfax,California,Colfax
+California,"Chico, California",2018,,10414.0,Chico,California,Chico
+California,"Chatsworth, California",2018,,62354.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2018,,49813.0,Carpinteria,California,Carpinteria
+California,"Carlsbad Village, California",2018,,9904.0,Carlsbad Village,California,Carlsbad Village
+California,"Camarillo, California",2018,,54252.0,Camarillo,California,Camarillo
+California,"Burbank, California",2018,,62478.0,Burbank,California,Burbank
+California,"Berkeley, California",2018,,173579.0,Berkeley,California,Berkeley
+California,"Barstow, California",2018,,3400.0,Barstow,California,Barstow
+California,"Bakersfield, California",2018,,442023.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2018,,14243.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2018,,35345.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2018,,281379.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2018,,10006.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Winter Park Resort (seasonal), Colorado",2018,,13033.0,Winter Park Resort (seasonal),Colorado,Winter Park Resort (seasonal)
+Colorado,"Trinidad, Colorado",2018,,5635.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2018,,1588.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2018,,7373.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2018,,32540.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2018,,5034.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2018,,44430.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2018,,3445.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2018,,143986.0,Denver,Colorado,Denver
+Connecticut,"New Haven State Street, Connecticut",2018,Service began 6/18,117.0,New Haven State Street,Connecticut,New Haven State Street
+Connecticut,"Windsor, Connecticut",2018,,11091.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2018,,18333.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2018,,9555.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2018,,416315.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2018,,67501.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2018,,161111.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2018,,697603.0,New Haven,Connecticut,New Haven
+Connecticut,"Mystic, Connecticut",2018,,28017.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2018,,16495.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2018,,150611.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2018,,90174.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2018,,16219.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2018,,702150.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2018,,13432.0,Newark,Delaware,Newark
+District of Columbia,"Washington Union Station, District of Columbia",2018,,5197237.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2018,,25844.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2018,,20503.0,Winter Haven,Florida,Winter Haven
+Florida,"West Palm Beach, Florida",2018,,53974.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Tampa, Florida",2018,,108783.0,Tampa,Florida,Tampa
+Florida,"Sebring, Florida",2018,,13847.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2018,,224812.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Palatka, Florida",2018,,11598.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2018,,127326.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2018,,3988.0,Okeechobee,Florida,Okeechobee
+Florida,"Miami, Florida",2018,,64729.0,Miami,Florida,Miami
+Florida,"Lakeland, Florida",2018,,18924.0,Lakeland,Florida,Lakeland
+Florida,"Kissimmee, Florida",2018,,35028.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2018,,66471.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2018,,22592.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2018,,40838.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2018,,13643.0,Delray Beach,Florida,Delray Beach
+Florida,"Deland, Florida",2018,,20677.0,Deland,Florida,Deland
+Florida,"Deerfield Beach, Florida",2018,,22230.0,Deerfield Beach,Florida,Deerfield Beach
+Georgia,"Toccoa, Georgia",2018,,2324.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2018,,53769.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2018,,9461.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2018,,5032.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2018,,72197.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2018,,7166.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2018,,15816.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2018,,168969.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2018,,4999.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2018,,37282.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2018,,38244.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2018,,17731.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2018,,6442.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2018,,42104.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2018,,22276.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2018,,34279.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2018,,61002.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2018,,23581.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2018,,11003.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2018,,17354.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2018,,19201.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2018,,61182.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2018,,36151.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2018,,55496.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2018,,2317.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2018,,94267.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2018,,24384.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2018,,9913.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2018,,8309.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2018,,3388307.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2018,,155614.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2018,,20783.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2018,,12089.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2018,,91264.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2018,,238626.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2018,,67225.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2018,,21866.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2018,,21260.0,South Bend,Indiana,South Bend
+Indiana,"Michigan City, Indiana",2018,,2720.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2018,,16997.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2018,,29431.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2018,,5848.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2018,,21875.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2018,,3198.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2018,,5716.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connellsville, Indiana",2018,,607.0,Connellsville,Indiana,Connellsville
+Indiana,"Albany/Rensselaer, Indiana",2018,,1816.0,Albany/Rensselaer,Indiana,Albany/Rensselaer
+Iowa,"Ottumwa, Iowa",2018,,11043.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2018,,16188.0,Osceola,Iowa,Osceola
+Iowa,"Mt. Pleasant, Iowa",2018,,12584.0,Mt. Pleasant,Iowa,Mt. Pleasant
+Iowa,"Fort Madison, Iowa",2018,,5891.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2018,,3745.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2018,,8668.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2018,,9136.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2018,,15218.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2018,,8362.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2018,,4415.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2018,,7056.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2018,,5289.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2018,,875.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2018,,2024.0,Maysville,Kentucky,Maysville
+Kentucky,"Fulton, Kentucky",2018,,3431.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2018,,2157.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2018,,9100.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2018,,1238.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2018,,181544.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2018,,1602.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2018,,3782.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2018,,6151.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2018,,9350.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2018,,56898.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2018,,48095.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2018,,178661.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2018,,15572.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maine,"Freeport, Maine",2018,,12474.0,Freeport,Maine,Freeport
+Maine,"Brunswick, Maine",2018,,33885.0,Brunswick,Maine,Brunswick
+Maryland,"Rockville, Maryland",2018,,5162.0,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2018,,175414.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2018,,11019.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2018,,756533.0,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2018,,1041232.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2018,,56285.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2018,,6157.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2018,,16846.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2018,,101394.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2018,,446221.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2018,,8270.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Northampton, Massachusetts",2018,,21939.0,Northampton,Massachusetts,Northampton
+Massachusetts,"Holyoke, Massachusetts",2018,,1582.0,Holyoke,Massachusetts,Holyoke
+Massachusetts,"Haverhill, Massachusetts",2018,,42637.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Greenfield, Massachusetts",2018,,6575.0,Greenfield,Massachusetts,Greenfield
+Massachusetts,"Framingham, Massachusetts",2018,,1961.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-South Station, Massachusetts",2018,,1553953.0,Boston-South Station,Massachusetts,Boston-South Station
+Massachusetts,"Boston-North Station, Massachusetts",2018,,464988.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2018,,683016.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Michigan,"Troy, Michigan",2018,,32550.0,Troy,Michigan,Troy
+Michigan,"St. Joseph/Benton Harbor, Michigan",2018,,14824.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2018,,27724.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2018,,19822.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2018,,14135.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2018,,17440.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2018,,25934.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2018,,8948.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2018,,122115.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2018,,23700.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2018,,36838.0,Holland,Michigan,Holland
+Michigan,"Grand Rapids, Michigan",2018,,40508.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2018,,28205.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2018,,69359.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2018,,13738.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2018,,4975.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2018,,66143.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2018,,73337.0,Dearborn,Michigan,Dearborn
+Michigan,"Battle Creek, Michigan",2018,,41757.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2018,,4180.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2018,,158101.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2018,,883.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2018,,14711.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2018,,5723.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2018,,85627.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2018,,9566.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2018,,8263.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Detroit Lakes, Minnesota",2018,,4877.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Marks, Mississippi",2018,Service began 5/4/18,622.0,Marks,Mississippi,Marks
+Mississippi,"Yazoo City, Mississippi",2018,,3185.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2018,,2119.0,Picayune,Mississippi,Picayune
+Mississippi,"Meridian, Mississippi",2018,,9090.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2018,,4770.0,McComb,Mississippi,McComb
+Mississippi,"Laurel, Mississippi",2018,,3924.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2018,,44645.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2018,,1326.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2018,,8685.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Greenwood, Mississippi",2018,,13907.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2018,,4004.0,Brookhaven,Mississippi,Brookhaven
+Missouri,"Washington, Missouri",2018,,15890.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2018,,12046.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2018,,362172.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2018,,9289.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2018,,4640.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2018,,26811.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2018,,11124.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2018,,55213.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2018,,154170.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2018,,39395.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2018,,6683.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2018,,26037.0,Hermann,Missouri,Hermann
+Missouri,"Arcadia, Missouri",2018,,1018.0,Arcadia,Missouri,Arcadia
+Montana,"Wolf Point, Montana",2018,,4447.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2018,,55473.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2018,,4891.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2018,,10387.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2018,,3570.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2018,,4958.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2018,,11102.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2018,,5434.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2018,,3286.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2018,,14414.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2018,,2396.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2018,,1334.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Lincoln, Nebraska",2018,Haymarket Station,15196.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Omaha, Nebraska",2018,,27524.0,Omaha,Nebraska,Omaha
+Nebraska,"Lincoln, Nebraska",2018,,3278.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2018,,2225.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2018,,5304.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2018,,4525.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Reno, Nevada",2018,,72134.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2018,,8656.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2018,,88396.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2018,,57703.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2018,,63921.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2018,,2542.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2018,,434489.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2018,,35418.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2018,,702182.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2018,,168581.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2018,,6067.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2018,,367726.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2018,,7392.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2018,,733.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2018,,4630.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy (Santa Fe), New Mexico",2018,,9731.0,Lamy (Santa Fe),New Mexico,Lamy (Santa Fe)
+New Mexico,"Gallup, New Mexico",2018,,14775.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2018,,1388.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2018,,65539.0,Albuquerque,New Mexico,Albuquerque
+New York,"Rome, New York",2018,"Rome station closed from 7/4/18 due to ceiling collapse in tennel leading to plaform. The station reopened 12/17/18, during FY19.",6146.0,Rome,New York,Rome
+New York,"New York (Grand Central), New York",2018,"Empire trains diverted to Grand Central during summer track work program at Penn, 5/26/18 through 9/3/19.",376459.0,New York (Grand Central),New York,New York (Grand Central)
+New York,"Yonkers, New York",2018,,28223.0,Yonkers,New York,Yonkers
+New York,"Whitehall, New York",2018,,1653.0,Whitehall,New York,Whitehall
+New York,"Westport, New York",2018,,2626.0,Westport,New York,Westport
+New York,"Utica, New York",2018,,60330.0,Utica,New York,Utica
+New York,"Syracuse, New York",2018,,131487.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2018,,50950.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2018,,38170.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rouses Point, New York",2018,,1255.0,Rouses Point,New York,Rouses Point
+New York,"Rochester, New York",2018,,130306.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2018,,201316.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2018,,97169.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Port Kent, New York",2018,,380.0,Port Kent,New York,Port Kent
+New York,"Port Henry, New York",2018,,2442.0,Port Henry,New York,Port Henry
+New York,"Plattsburgh, New York",2018,,13506.0,Plattsburgh,New York,Plattsburgh
+New York,"Niagara Falls, New York",2018,,31398.0,Niagara Falls,New York,Niagara Falls
+New York,"New York City (Penn Station), New York",2018,,10132025.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2018,,91416.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2018,,216988.0,Hudson,New York,Hudson
+New York,"Fort Ticonderoga, New York",2018,,1660.0,Fort Ticonderoga,New York,Fort Ticonderoga
+New York,"Fort Edward, New York",2018,,9353.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2018,,44932.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2018,,38739.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2018,,107251.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2018,,9676.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2018,,800368.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2018,,54110.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2018,,6925.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2018,,12930.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2018,,20693.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2018,,51341.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2018,,157153.0,Raleigh,North Carolina,Raleigh
+North Carolina,"Kannapolis, North Carolina",2018,,18858.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2018,,31011.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2018,,4005.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2018,,118176.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2018,,1251.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2018,,50846.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2018,,75210.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2018,,172226.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2018,,82212.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2018,,21886.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2018,,29013.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2018,,4297.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2018,,4102.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2018,,29854.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2018,,13346.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2018,,18695.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2018,,4217.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Toledo, Ohio",2018,,51400.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2018,,9138.0,Sandusky,Ohio,Sandusky
+Ohio,"Elyria, Ohio",2018,,7275.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2018,,48964.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2018,,8482.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2018,,5218.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2018,,4501.0,Alliance,Ohio,Alliance
+Oklahoma,"Purcell, Oklahoma",2018,,1635.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2018,,4065.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2018,,45250.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2018,,12469.0,Norman,Oklahoma,Norman
+Oklahoma,"Ardmore, Oklahoma",2018,,6918.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2018,,55448.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2018,,576339.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2018,,11382.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2018,,36368.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2018,,89279.0,Eugene,Oregon,Eugene
+Oregon,"Chemult, Oregon",2018,,9084.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2018,,30782.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2018,,2826.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2018,,138686.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia-North, Pennsylvania",2018,,2006.0,Philadelphia-North,Pennsylvania,Philadelphia-North
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2018,,4471992.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2018,,44445.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2018,,233816.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"Mount Joy, Pennsylvania",2018,,45813.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2018,,68022.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2018,,8676.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2018,,4068.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2018,,567919.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2018,,19621.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2018,,5766.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2018,,512642.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2018,,12643.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2018,,143852.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2018,,14974.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2018,,100019.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2018,,81518.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2018,,3673.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2018,,4407.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2018,,16577.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2018,,63923.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2018,,19574.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2018,,44398.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2018,,766492.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2018,,170394.0,Kingston,Rhode Island,Kingston
+South Carolina,"Charleston, South Carolina",2018,Closed 5/23/16 for adjacent highway project; Amtrak expects to resume service when the project is complete.,61710.0,Charleston,South Carolina,Charleston
+South Carolina,"Yemassee, South Carolina",2018,,9740.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2018,,3870.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2018,,10450.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2018,,12172.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2018,,40465.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2018,,5841.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2018,,3230.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2018,,29805.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2018,,0.0,Clemson,South Carolina,Clemson
+South Carolina,"Camden, South Carolina",2018,,3161.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2018,,3557.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2018,,71311.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2018,,15330.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2018,,5453.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2018,,269.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2018,,7663.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2018,,53434.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2018,,6423.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2018,,5061.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2018,,8371.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2018,,34768.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2018,,20205.0,Houston,Texas,Houston
+Texas,"Gainesville, Texas",2018,,6658.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2018,,108675.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2018,,14267.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2018,,1695.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2018,,46453.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2018,,3929.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2018,,3641.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2018,,34009.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2018,,5311.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2018,,45194.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2018,,5120.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2018,,2261.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2018,,2605.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2018,,1272.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2018,,13864.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2018,,5179.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2018,,3726.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2018,,14097.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2018,,1842.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2018,,7978.0,Montpelier,Vermont,Montpelier
+Vermont,"Essex Junction, Vermont",2018,,20649.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Castleton, Vermont",2018,,4221.0,Castleton,Vermont,Castleton
+Vermont,"Brattleboro, Vermont",2018,,16933.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2018,,4488.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Roanoke, Virginia",2018,"Service began on 10/31/17, during FY 2018.",51698.0,Roanoke,Virginia,Roanoke
+Virginia,"Woodbridge, Virginia",2018,,21799.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2018,,57212.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2018,,5160.0,Staunton,Virginia,Staunton
+Virginia,"Richmond - Staples Mill, Virginia",2018,,346642.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2018,,48384.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2018,,31078.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2018,,31563.0,Petersburg,Virginia,Petersburg
+Virginia,"Norfolk, Virginia",2018,,47243.0,Norfolk,Virginia,Norfolk
+Virginia,"Newport News, Virginia",2018,,99920.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2018,,30340.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2018,,58160.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2018,,224812.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2018,,97549.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Danville, Virginia",2018,,6934.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2018,,14509.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2018,,1951.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2018,,133936.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Burke Centre, Virginia",2018,,7497.0,Burke Centre,Virginia,Burke Centre
+Virginia,"Ashland, Virginia",2018,,29077.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2018,,188961.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2018,,1339.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2018,,17301.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2018,,119818.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2018,,33288.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2018,,112421.0,Tacoma,Washington,Tacoma
+Washington,"Stanwood, Washington",2018,,5078.0,Stanwood,Washington,Stanwood
+Washington,"Spokane, Washington",2018,,47562.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2018,,686426.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2018,,23299.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2018,,66442.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2018,,16815.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2018,,7584.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2018,,31228.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2018,,38997.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2018,,3503.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2018,,28999.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2018,,28218.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2018,,3272.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2018,,49669.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2018,,5230.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2018,,285.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2018,,2162.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2018,,347.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2018,,10784.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2018,,10296.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2018,,5836.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2018,,7638.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston, West Virginia",2018,,11251.0,Charleston,West Virginia,Charleston
+West Virginia,"Alderson, West Virginia",2018,,433.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2018,,13631.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2018,,12278.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2018,,92813.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2018,,7266.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2018,,604631.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2018,,180314.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2018,,26157.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2018,,11414.0,Columbus,Wisconsin,Columbus
