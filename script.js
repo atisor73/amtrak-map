@@ -193,12 +193,14 @@ function showTooltip(info, x, y) {
     const panelInfo = tooltip.append("div").attr("class", "tooltip-panel info");
     const panelEtym = tooltip.append("div").attr("class", "tooltip-panel etymology");
 
+
     // --- Route Info Table ---
     const fields = [
+        {key: "route", label: "Route"},   
         {key:"origin", label:"Origin"},
         {key:"destination", label:"Destination"},
         {key:"frequency", label:"Frequency"},
-        {key:"miles_approx", label:"Approx # miles", suffix:" mi"},
+        {key:"miles_approx", label:"# miles", prefix: "~", suffix:" mi"},
         {key:"n_stations_approx", label:"Stations"},
         {key:"stop_summary", label:"Stop summary"},
         {key:"time_label", label:"Time"}
@@ -209,7 +211,14 @@ function showTooltip(info, x, y) {
     // Only the fields we want
     fields.forEach(f => {
         if (info[f.key] !== undefined && info[f.key] !== "") {
-            let value = info[f.key] + (f.suffix || "");
+            let value = (f.prefix || "") + info[f.key] + (f.suffix || "");
+            // Capitalize the route name
+            if (f.key === "route" || f.key === "route_name") {
+                value = value.replace(/_/g, " ");    
+                value = value.toUpperCase(); // all uppercase
+                // Or to capitalize just first letters of words:
+                // value = value.replace(/\b\w/g, c => c.toUpperCase());
+            }
             // If it's a link, wrap in <a>
             if (f.key === "link") {
                 value = `<a href="${info[f.key]}" target="_blank">${info[f.key]}</a>`;
