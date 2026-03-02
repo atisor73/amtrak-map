@@ -7,8 +7,8 @@ d3.csv("data/DF_BTS_AMTRAK_RIDERSHIP_2025.csv").then(rawData => {
 // d3.csv("data/DF_TREEMAP_IL_POP.csv").then(rawData => {
     rawData.forEach(d => d.value = +d.value);  
 
-    const width = 650;
-    const height = 650;
+    const width = 620;
+    const height = 620;
     const margin = 20; // more space for labels
 
 
@@ -181,6 +181,10 @@ d3.csv("data/DF_BTS_AMTRAK_RIDERSHIP_2025.csv").then(rawData => {
         .style("opacity", 0);
 
 
+    svg.on("mouseleave", () => {
+     tooltip.style("opacity", 0);
+    });
+
     // Compute top groups for creating labels later
     // total value per group
     const groupTotals = nestedData.map(d => ({
@@ -250,7 +254,7 @@ d3.csv("data/DF_BTS_AMTRAK_RIDERSHIP_2025.csv").then(rawData => {
                 if (d.depth === 2) { return (showSubgroup && topSubgroups.has(d.data.name)) ? d.data.name : ""; }
                 return "";
             })
-        document.getElementById("toggle-text").innerText = showSubgroup ? "Show Group" : "Show Subgroup";
+        document.getElementById("toggle-text").innerText = showSubgroup ? "Show State Labels" : "Show Station Labels";
         showSubgroup = !showSubgroup;
     });
   
@@ -270,7 +274,119 @@ d3.csv("data/DF_BTS_AMTRAK_RIDERSHIP_2025.csv").then(rawData => {
     //     .attr("fill", "#232323")
     //     .attr("font-family", "Courier New, monospace");
 
-    
+
+     // INFO BOX ON RIGHT
+    const totalValue = d3.sum(nodes.filter(d => d.depth === 2), d => d.value); // total over all subgroups
+    const groupTotalsMap = new Map(
+        nestedData.map(d => [d.name, d3.sum(d.children, c => c.value)])
+    );
+
+    const totalRidership = d3.sum(rawData, d => d.value); // total of value column
+    const groupRidershipMap = d3.rollup(
+        rawData,
+        v => d3.sum(v, d => d.value),
+        d => d.group
+    );
+    const groupSubgroupCount = d3.rollup(
+        rawData,
+        v => new Set(v.map(d => d.subgroup)).size,
+        d => d.group
+    );
+    const subgroupRidershipMap = d3.rollup(
+        rawData,
+        v => d3.sum(v, d => d.value),
+        d => `${d.group}|${d.subgroup}`   // unique key
+    );
+
+    // Hover handler
+    // inside your d3 hover handler
+    svg.selectAll("path")
+        .on("mouseover", (event, d) => {
+            if (d.depth !== 2) return;
+
+            // --- small tooltip following mouse ---
+            if (d.depth === 2) {
+                tooltip
+                    .style("opacity", 1)
+                    .html(
+                        "<b>" + d.data.name + "</b><br>" +
+                        "State: " + d.parent.data.name + "<br>" +
+                        "Ridership: " + d.value.toLocaleString()
+                    );
+            }
+
+            const groupName = d.parent.data.name;
+            const subgroupName = d.data.name;
+
+            const groupTotal = groupRidershipMap.get(groupName);
+            const subgroupTotal = subgroupRidershipMap.get(`${groupName}|${subgroupName}`);
+            const subgroupCountInGroup = groupSubgroupCount.get(groupName);
+
+            const subgroupPctOfGroup = ((subgroupTotal / groupTotal) * 100).toFixed(1);
+            const groupPctOfTotal = ((groupTotal / totalRidership) * 100).toFixed(1);
+            const subgroupPctOfTotal = ((subgroupTotal / totalRidership) * 100).toFixed(1);
+
+            // Update fixed info box with two-column structure
+            const infoBox = document.getElementById("fixed-info");
+            infoBox.innerHTML = `
+                <div class="label">Total ridership:</div><div class="value">${totalRidership.toLocaleString()}</div>
+                <div class="label">${groupName} ridership:</div><div class="value">${groupTotal.toLocaleString()}  (${groupPctOfTotal}%)</div>
+                <div class="label">${subgroupName} station ridership:</div>
+                    <div class="value">${subgroupTotal.toLocaleString()} <br> 
+                    ${subgroupPctOfTotal}% of total <br>
+                     ${subgroupPctOfGroup}% of state</div>
+                <div class="label"># stations in state:</div><div class="value">${subgroupCountInGroup}</div>
+            `;
+        })
+        .on("mouseout", () => {
+            document.getElementById("fixed-info").innerHTML = "";
+        });
+    // svg.selectAll("path")
+    //     .on("mouseover", (event, d) => {
+    //         if (d.depth !== 2) return; // only for subgroups
+
+    //         const groupName = d.parent.data.name;
+    //         const subgroupName = d.data.name;
+
+    //         const groupTotal = groupRidershipMap.get(groupName);
+    //         const subgroupTotal = subgroupRidershipMap.get(`${groupName}|${subgroupName}`);
+    //         const subgroupCountInGroup = groupSubgroupCount.get(groupName);
+
+    //         const subgroupPctOfGroup = ((subgroupTotal / groupTotal) * 100).toFixed(1);
+    //         const groupPctOfTotal = ((groupTotal / totalRidership) * 100).toFixed(1);
+    //         const subgroupPctOfTotal = ((subgroupTotal / totalRidership) * 100).toFixed(1);
+
+    //         // Update fixed info box
+    //         document.getElementById("fixed-info").textContent =
+    //             `Total ridership: ${totalRidership.toLocaleString()}\n` +
+    //             `${groupName} state ridership: ${groupTotal.toLocaleString()} (${groupPctOfTotal}%)\n` +
+    //             `${subgroupName} station ridership: ${subgroupTotal.toLocaleString()} (${subgroupPctOfTotal}% of total, ${subgroupPctOfGroup}% of state)\n` +
+    //             `# of unique stations in state: ${subgroupCountInGroup}`;
+    //     })
+    //     .on("mousemove", (event) => {
+    //         tooltip
+    //             .style("left", (event.pageX + 10) + "px")
+    //             .style("top", (event.pageY + 10) + "px");
+    //     })
+    //     .on("mouseout", () => {
+    //         tooltip.style("opacity", 0);
+    //         document.getElementById("fixed-info").textContent = ""; // clear when not hovering
+    //     });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // BUTTONS
     document.getElementById("download-svg").addEventListener("click", function () {
         const svg = document.getElementById("voronoi");
         const serializer = new XMLSerializer();

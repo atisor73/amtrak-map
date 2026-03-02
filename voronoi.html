@@ -23,14 +23,20 @@
   </style>
 </head>
 <body>
+    <h1 class="page-title">Ridership by State, Station in 2025.</h1>
 
     <script src="script_voronoi.js"></script>
 
-    <div class="svg-wrapper">
-      <svg id="voronoi" width="700" height="700"></svg>
-      <button id="toggle-text">Show Subgroup</button>
-    </div>
+    <div class="svg-info-container">
+      <!-- Left: SVG + button -->
+      <div class="svg-wrapper">
+        <svg id="voronoi" width="620" height="620"></svg>
+        <button id="toggle-text">Show Station Labels</button>
+      </div>
 
+      <!-- Right: Info box -->
+      <div id="fixed-info" class="fixed-info"></div>
+    </div>
     <!-- <svg id="voronoi" width="800" height="800"></svg> -->
     <!-- <button id="download-svg">Download SVG</button> -->
     <!-- <button id="download-png">Download PNG</button> -->

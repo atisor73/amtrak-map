@@ -1,8 +1,19 @@
 body { font-family: sans-serif; }
+
+.page-title {
+    /* text-align: center;        center text horizontally */
+    font-size: 22px;           /* adjust size */
+    /* font-weight: bold; */
+    margin: 10px 0;            /* spacing above and below */
+    font-family: "Courier New";
+    margin-left: 150px;
+}
+
 svg {
     padding: 10px;
     margin-left: 40px;
-    }
+}
+
 .top-row {
     display: flex;
     align-items: center;       /* vertically center the items */
@@ -29,11 +40,20 @@ color: #333;
 flex: 1;                 /* description takes remaining space */
 }
 
+
+.svg-info-container {
+    display: flex;               /* SVG+button on left, info box on right */
+    align-items: flex-start;     /* top-align both sides */
+    gap: 20px;                   /* space between SVG and info box */
+    margin-left: 40px;           /* optional, move the whole container right */
+}
+
+
 .svg-wrapper {
     display: flex;
     flex-direction: column;   /* stack children vertically */
     align-items: flex-start;  /* aligns button/SVG to left; change to center if desired */
-    gap: 10px;                /* space between button and SVG */
+    gap: 5px;                /* space between button and SVG */
     margin-left: 40px;        /* move the whole group right if desired */
 }
 
@@ -50,11 +70,42 @@ flex: 1;                 /* description takes remaining space */
 
 #toggle-text:hover {
     background: #e8edf7;
-    border-color: #6a8cff;
+    border-color: #898989;
+    /* border-color: #6a8cff; */
 }
 
 /* text { font-family: "Courier New", monospace; font-size: 12px; text-anchor: middle; dominant-baseline: middle; } */
 
 
 
+.fixed-info {
+    /* position: absolute;      fixed inside svg-wrapper or relative container */
+    /* bottom: 10px;            distance from bottom of SVG */
+    /* left: 40px;              distance from left of SVG */
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-family: "Courier New", monospace;
+    font-size: 13px;
+    line-height: 1.0em;
+    display: grid;
+    /* grid-template-columns: max-content auto;  left column sized to content, right column fills remaining */
+    grid-template-columns: 170px auto;
+    gap: 8px 12px;  /* row gap 8px, column gap 12px */
+}
+.fixed-info div {
+    white-space: nowrap;
+}
+.fixed-info .label {
+    text-align: right;
+    font-weight: bold;
+    white-space: normal;           /* allow wrapping */
+    word-wrap: break-word;         /* break long words */
+    overflow-wrap: anywhere;       /* allow break anywhere if needed */
+
+}
+.fixed-info .value {
+    text-align: left;
+}
 
