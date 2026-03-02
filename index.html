@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Amtrak Map Viewer</title>
+  <title>Amtrak Routes</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
+    <!-- Widgets -->
     <div id="controls">
         <label style="display:inline-block; margin-right: 100px;">
             Map opacity:
@@ -28,10 +28,35 @@
     </div>
 
 
-
+  <!-- Map -->
   <div id="map-container">
     <script src="script.js"></script>
   </div>
+
+  <!-- Footnote -->
+
+  <!-- Info button -->
+    
+  <div style="position: relative; display: inline-block;">
+
+    <button class="info-btn" onclick="toggleInfo()">i</button>
+
+    <div id="infoText" class="info-box">
+      Click on a route for more details. <br><br>
+      This project shows Amtrak routes as of March 1st, 2026, and is not an official Amtrak map. 
+      Routes were vectorized by hand, and may contain minor inaccuracies. If you find an error, 
+      please submit an issue 
+       <a href="https://github.com/atisor73/amtrak-map" target="_blank">here</a>.
+    </div>
+  </div>
+
+  <script>
+    function toggleInfo() {
+      const box = document.getElementById("infoText");
+      box.style.display =
+        box.style.display === "block" ? "none" : "block";
+    }
+  </script>
 
 </body>
 </html>

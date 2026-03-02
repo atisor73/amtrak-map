@@ -16,15 +16,21 @@ svg {
     display: block;
 }
 
-#toggle-routes, #opacity-slider {
-    accent-color: #565656;  /* dark gray instead of blue */
-}
 
+body, svg, .tooltip {
+    font-family: "Courier New", monospace;
+}
 
 .route {
     cursor: pointer;
     transition: opacity 0.2s;
 }
+
+/* WIDGETS AT TOP */
+#toggle-routes, #opacity-slider {
+    accent-color: #565656;  /* dark gray instead of blue */
+}
+
 
 #controls {
     padding: 10px;
@@ -35,7 +41,7 @@ svg {
 #controls.label {
     padding-right: 400px;
 }
-
+/* TOOLTIP */
 
 .tooltip {
     position: absolute;
@@ -51,18 +57,114 @@ svg {
 
     }
 .tooltip table {
-width: 100%;
-border-collapse: collapse;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* ensures the widths are respected */
+
 }
 .tooltip td {
 padding: 2px 4px;
 vertical-align: top;
 }
+
+/* Left column (labels) wider */
 .tooltip td:first-child {
-font-weight: bold;
-text-align: right;
+    font-weight: bold;
+    text-align: right;
+    width: 30%;  /* adjust as desired */
+    padding-right: 6px;
 }
 
-body, svg, .tooltip {
+/* Right column (values) */
+.tooltip td:last-child {
+    width: 70%;  /* remainder */
+    word-wrap: break-word; /* wrap long text */
+}
+
+/* Tooltip header buttons */
+.tooltip-radio-label {
     font-family: "Courier New", monospace;
+    font-weight: bold;
+    font-size: 10px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.tooltip-radio-label:hover {
+    color: #333;
+}
+
+/* hide the actual radio buttons */
+.tooltip-header input[type="radio"] {
+    display: none;
+}
+
+/* optional: style the selected label */
+#panel-info:checked + label,
+#panel-etymology:checked + label {
+    color: white;
+    background-color: #565656;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+/* Panels inside tooltip */
+.tooltip-panel {
+    font-family: "Courier New", monospace;
+    font-weight: normal;  /* table text normal, header is bold */
+    font-size: 10px;
+    line-height: 1.2;
+    margin-top: 4px;
+    background-color: #f0f0f0; 
+    padding: 4px 6px;     
+    border-radius: 3px;
+}
+
+
+/* Optional: make etymology panel a little different */
+.tooltip-panel.etymology {
+    /* font-style: italic; */
+    font-style: regular
+}
+
+
+/* INFO BUTTON AT BOTTOM RIGHT OF PAGE */
+.info-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+
+  font-size: 32px!;
+  font-weight: bold;
+
+  border: none;
+  background: #cacaca;
+  color: white;
+  cursor: pointer;
+
+  z-index: 1000;
+}
+
+
+.info-box {
+  position: fixed;
+  bottom: 60px;
+  right: 40px;
+
+  display: none;
+
+  background: white;
+  border: 1px solid #ccc;
+  padding: 12px;
+  width: 300px;
+
+  font-size: 12px;   /* ← change this */
+  line-height: 1.1;
+
+  box-shadow: 0 3px 8px rgba(0,0,0,0.25);
+
+  z-index: 1000;
 }

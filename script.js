@@ -3,13 +3,29 @@ let backgroundImage = null;
 let routes = null;
 let routeData = null;
 let selectedRoute = null;
+let routeEtymology = {};
+
+
 
 // Load the external SVG file
 Promise.all([
     d3.xml("map.svg"),
-    d3.csv("data/routes_03012026.csv")
-]).then(([svgData, csvData]) => {
-// d3.xml("map.svg").then(data => {
+    d3.csv("data/routes_03012026.csv"),
+    // Wrap fetch in a fail-safe
+    fetch("etymology.json")
+        .then(res => {
+            if (!res.ok) throw new Error("Failed to load");
+            return res.json();
+        })
+        .catch(err => {
+            console.warn("Etymology JSON failed to load:", err);
+            return {}; // return empty object instead of rejecting
+        })
+]).then(([svgData, csvData, jsonData]) => {
+
+    routeEtymology = jsonData;
+    console.log("Route etymology loaded:", routeEtymology.acela);
+
     const container = d3.select("#map-container");
 
     // Append the SVG element to the container
@@ -140,26 +156,62 @@ function showTooltip(info, x, y) {
         .style("left", `${x + 20}px`)
         .style("top", `${y + 10}px`);
 
-    // Build table
-    const tbody = tooltip.append("table").append("tbody");
+    // =========================
+    // HEADER BUTTONS
+    // =========================
+    const header = tooltip.append("div")
+        .attr("class", "tooltip-header")
+        .style("margin-bottom", "5px");
 
-    // Only the fields we want
-    
+    // Radio input: Route Info
+    header.append("input")
+        .attr("type", "radio")
+        .attr("name", "tooltip-panel")
+        .attr("id", "panel-info")
+        .attr("checked", true)
+        .on("change", () => showPanel("info"));
+
+    header.append("label")
+        .attr("for", "panel-info")
+        .text("Route info")
+        .attr("class", "tooltip-radio-label");
+
+    // Radio input: Etymology
+    header.append("input")
+        .attr("type", "radio")
+        .attr("name", "tooltip-panel")
+        .attr("id", "panel-etymology")
+        .on("change", () => showPanel("etymology"));
+
+    header.append("label")
+        .attr("for", "panel-etymology")
+        .text("Etymology")
+        .attr("class", "tooltip-radio-label");
+    // =========================
+    // PANELS
+    // =========================
+    const panelInfo = tooltip.append("div").attr("class", "tooltip-panel info");
+    const panelEtym = tooltip.append("div").attr("class", "tooltip-panel etymology");
+
+    // --- Route Info Table ---
     const fields = [
         {key:"origin", label:"Origin"},
         {key:"destination", label:"Destination"},
         {key:"frequency", label:"Frequency"},
-        {key:"time_label", label:"Duration"},
-        {key:"miles_approx_label", label:"Miles"},
+        {key:"miles_approx", label:"Approx # miles", suffix:" mi"},
+        {key:"n_stations_approx", label:"Stations"},
         {key:"stop_summary", label:"Stop summary"},
-        {key:"link", label:"Link", isLink:true}       // optional: can be clickable later
+        {key:"time_label", label:"Time"}
     ];
+    // Build table
+    const tbody = panelInfo.append("table").append("tbody");
 
+    // Only the fields we want
     fields.forEach(f => {
         if (info[f.key] !== undefined && info[f.key] !== "") {
             let value = info[f.key] + (f.suffix || "");
             // If it's a link, wrap in <a>
-            if (f.isLink) {
+            if (f.key === "link") {
                 value = `<a href="${info[f.key]}" target="_blank">${info[f.key]}</a>`;
             }
             tbody.append("tr").html(`
@@ -168,6 +220,30 @@ function showTooltip(info, x, y) {
             `);
         }
     });
+
+    // --- Etymology ---
+    const routeName = info.route;
+    const etymText = routeEtymology[routeName] || "No etymology available.";
+    panelEtym.append("p").html(etymText);
+
+    // --- Panel Toggle ---
+    function showPanel(name) {
+        if (name === "info") {
+            panelInfo.style("display", "block");
+            panelEtym.style("display", "none");
+        } else {
+            panelInfo.style("display", "none");
+            panelEtym.style("display", "block");
+        }
+    }
+
+    // Default to showing Route Info
+    showPanel("info");
+
+    infoBtn.on("click", () => showPanel("info"));
+    etymBtn.on("click", () => showPanel("etymology"));
+
+    
 }
 
 // Hide tooltip
