@@ -9,7 +9,8 @@ let routeEtymology = {};
 
 // Load the external SVG file
 Promise.all([
-    d3.xml("images/map_final.svg"),
+    // d3.xml("images/map_final.svg"),
+    d3.xml("images/map_new.svg"),
     d3.csv("data/routes_03012026.csv"),
     // Wrap fetch in a fail-safe
     fetch("data/etymology.json")
