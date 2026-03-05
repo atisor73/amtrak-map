@@ -203,7 +203,8 @@ function showTooltip(info, x, y) {
         {key:"miles_approx", label:"# miles", prefix: "~", suffix:" mi"},
         {key:"n_stations_approx", label:"Stations"},
         {key:"stop_summary", label:"Stop summary"},
-        {key:"time_label", label:"Time"}
+        {key:"time_label", label:"Time"},
+        {key:"link", label:"More info"}   
     ];
     // Build table
     const tbody = panelInfo.append("table").append("tbody");
@@ -220,8 +221,11 @@ function showTooltip(info, x, y) {
                 // value = value.replace(/\b\w/g, c => c.toUpperCase());
             }
             // If it's a link, wrap in <a>
-            if (f.key === "link") {
-                value = `<a href="${info[f.key]}" target="_blank">${info[f.key]}</a>`;
+            // if (f.key === "link") {
+            //     value = `<a href="${info[f.key]}" target="_blank">${info[f.key]}</a>`;
+            // }
+            if (f.key === "link" && info[f.key]) {
+                value = `<a href="${info[f.key]}" target="_blank">Link</a>`;
             }
             tbody.append("tr").html(`
                 <td>${f.label}</td>
