@@ -5,13 +5,17 @@ body {
 
 #map-container {
     width: 92%;
-    max-width: 1100px; /* scale to screen */
+    /* max-width: 3100px; scale to screen  */
+    max-width:none;
     margin: auto;
     padding-top: 0px;
 }
 
+
 svg {
-    width: 100%;
+    /* width: 100%; */
+    width: auto;
+    max-width: 1100px;
     height: auto;
     display: block;
 }

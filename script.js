@@ -37,6 +37,8 @@ Promise.all([
                 .attr("id", "amtrak-svg")
                 .attr("preserveAspectRatio", "xMidYMid meet");
 
+
+
     console.log("SVG loaded:", svg);
 
     // Slider: Select image and chnage opacity of underlying image
