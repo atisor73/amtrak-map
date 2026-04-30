@@ -9,8 +9,8 @@ let routeEtymology = {};
 
 // Load the external SVG file
 Promise.all([
-    // d3.xml("images/map_final.svg"),
-    d3.xml("images/map_new.svg"),
+    // d3.xml("images/map_new.svg"),
+    d3.xml("images/map-routes.svg"),
     d3.csv("data/routes_03012026.csv"),
     // Wrap fetch in a fail-safe
     fetch("data/etymology.json")
@@ -27,26 +27,35 @@ Promise.all([
     routeEtymology = jsonData;
     console.log("Route etymology loaded:", routeEtymology.acela);
 
-    const container = d3.select("#map-container");
+    // const container = d3.select("#map-container");
+    const container = d3.select("#map-overlay");
 
     // Append the SVG element to the container
     container.node().append(svgData.documentElement);
 
     // Select the loaded SVG
-    svg = d3.select("#map-container svg")
-                .attr("id", "amtrak-svg")
-                .attr("preserveAspectRatio", "xMidYMid meet");
+    // svg = d3.select("#map-container svg")
+    //             .attr("id", "amtrak-svg")
+    //             .attr("preserveAspectRatio", "xMidYMid meet");
 
+    svg = d3.select("#map-overlay svg")
+        .attr("id", "amtrak-svg")
+        .attr("preserveAspectRatio", "xMidYMid meet")
+        .attr("viewBox", "0 0 4447 3473");
 
 
     console.log("SVG loaded:", svg);
 
     // Slider: Select image and chnage opacity of underlying image
-    backgroundImage = svg.select("image");
+    // backgroundImage = svg.select("image");
+    backgroundImage = d3.select("#map-base");
+
     // ... set initial opacity
     const initialOpacity = d3.select("#opacity-slider").property("value");
     if (backgroundImage) {
-        backgroundImage.attr("opacity", initialOpacity);
+        // backgroundImage.attr("opacity", initialOpacity);
+        backgroundImage.style("opacity", initialOpacity);
+
     }
     console.log("Found image:", backgroundImage.node());
 
@@ -95,7 +104,9 @@ function setupSlider() {
     d3.select("#opacity-slider").on("input", function () {
         const val = this.value;
         if (backgroundImage) {
-            backgroundImage.attr("opacity", val);
+            // backgroundImage.attr("opacity", val);
+            backgroundImage.style("opacity", val);
+
         }
 
     });
