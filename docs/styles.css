@@ -60,6 +60,16 @@ body, svg, .tooltip {
 #controls.label {
     padding-right: 400px;
 }
+
+.controls-label {
+    display: inline-block;
+}
+
+.controls-label--opacity {
+    margin-right: 100px;
+}
+
+
 /* TOOLTIP */
 
 .tooltip {
@@ -186,4 +196,43 @@ vertical-align: top;
   box-shadow: 0 3px 8px rgba(0,0,0,0.25);
 
   z-index: 1000;
+}
+
+
+@media (max-width: 768px) {
+    .tooltip {
+        position: absolute;
+        width: min(92vw, 520px);
+        max-width: none;
+        font-size: 10px;
+    }
+
+    .tooltip-panel {
+        font-size: 11px;
+    }
+
+    #controls {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        gap: 12px;
+        margin-left: 0;
+    }
+
+    .controls-label {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        white-space: nowrap;
+    }
+
+    .controls-label--opacity {
+        margin-right: 0;
+    }
+
+    #opacity-slider {
+        width: 110px;
+        min-width: 0;
+    }
 }

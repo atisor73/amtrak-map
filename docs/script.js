@@ -158,6 +158,9 @@ function setupResetClick() {
 }
 
 
+
+
+
 // Show tooltip at mouse position
 function showTooltip(info, x, y) {
     // Remove any existing tooltip
@@ -267,8 +270,8 @@ function showTooltip(info, x, y) {
     // Default to showing Route Info
     showPanel("info");
 
-    infoBtn.on("click", () => showPanel("info"));
-    etymBtn.on("click", () => showPanel("etymology"));
+    // infoBtn.on("click", () => showPanel("info"));
+    // etymBtn.on("click", () => showPanel("etymology"));
 
     
 }
