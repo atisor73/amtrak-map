@@ -1,0 +1,519 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2015,,10922.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Birmingham, Alabama",2015,,44985.0,Birmingham,Alabama,Birmingham
+Alabama,"Anniston, Alabama",2015,,5085.0,Anniston,Alabama,Anniston
+Arizona,"Yuma, Arizona",2015,,4296.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2015,,5074.0,Winslow,Arizona,Winslow
+Arizona,"Williams Junction, Arizona",2015,,6738.0,Williams Junction,Arizona,Williams Junction
+Arizona,"Tucson, Arizona",2015,,28682.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2015,,12162.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2015,,10794.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2015,,40800.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2015,,2073.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2015,,3738.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2015,,6894.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2015,,1760.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2015,,19676.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Hope, Arkansas",2015,,1612.0,Hope,Arkansas,Hope
+Arkansas,"Arkadelphia, Arkansas",2015,,1308.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Moreno Valley, California",2015,"Riverside, California",12837.0,Moreno Valley,California,Moreno Valley
+California,"Wasco, California",2015,,39678.0,Wasco,California,Wasco
+California,"Victorville, California",2015,,7266.0,Victorville,California,Victorville
+California,"Ventura, California",2015,,61812.0,Ventura,California,Ventura
+California,"Van Nuys, California",2015,,80957.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2015,,29791.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2015,,10846.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2015,,164288.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Stockton (San Joaquin St.), California",2015,,293861.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2015,,40428.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Sorrento Valley, California",2015,,16523.0,Sorrento Valley,California,Sorrento Valley
+California,"Solana Beach, California",2015,,408248.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2015,,49756.0,Simi Valley,California,Simi Valley
+California,"Santa Clara (University), California",2015,,30267.0,Santa Clara (University),California,Santa Clara (University)
+California,"Santa Barbara, California",2015,,333994.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2015,,182291.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2015,,110966.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2015,,226596.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2015,,215158.0,San Jose,California,San Jose
+California,"San Diego, California",2015,,773497.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2015,,238288.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2015,,13559.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2015,,12287.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2015,,21836.0,Salinas,California,Salinas
+California,"Sacramento, California",2015,,1027013.0,Sacramento,California,Sacramento
+California,"Roseville, California",2015,,34528.0,Roseville,California,Roseville
+California,"Rocklin, California",2015,,15074.0,Rocklin,California,Rocklin
+California,"Richmond, California",2015,,251372.0,Richmond,California,Richmond
+California,"Redding, California",2015,,12345.0,Redding,California,Redding
+California,"Pomona, California",2015,,1812.0,Pomona,California,Pomona
+California,"Paso Robles, California",2015,,12149.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2015,,3130.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2015,,96662.0,Oxnard,California,Oxnard
+California,"Ontario, California",2015,,4824.0,Ontario,California,Ontario
+California,"Oceanside, California",2015,,385128.0,Oceanside,California,Oceanside
+California,"Oakland, California",2015,,319336.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2015,,57491.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2015,,8656.0,Needles,California,Needles
+California,"Moorpark, California",2015,,20696.0,Moorpark,California,Moorpark
+California,"Modesto, California",2015,,121389.0,Modesto,California,Modesto
+California,"Merced, California",2015,,128327.0,Merced,California,Merced
+California,"Martinez, California",2015,,363717.0,Martinez,California,Martinez
+California,"Madera, California",2015,,27718.0,Madera,California,Madera
+California,"Los Angeles, California",2015,,1589391.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2015,,8158.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2015,,10185.0,Lodi,California,Lodi
+California,"Irvine, California",2015,,421736.0,Irvine,California,Irvine
+California,"Hayward, California",2015,,40631.0,Hayward,California,Hayward
+California,"Hanford, California",2015,,213923.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2015,,12718.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2015,,19437.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2015,,131129.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2015,,75677.0,Goleta,California,Goleta
+California,"Glendale, California",2015,,51009.0,Glendale,California,Glendale
+California,"Fullerton, California",2015,,370334.0,Fullerton,California,Fullerton
+California,"Fresno, California",2015,,387640.0,Fresno,California,Fresno
+California,"Fremont, California",2015,,35475.0,Fremont,California,Fremont
+California,"Encinitas, California",2015,,11945.0,Encinitas,California,Encinitas
+California,"Emeryville, California",2015,,587926.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2015,,6166.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2015,,372554.0,Davis,California,Davis
+California,"Corcoran, California",2015,,32331.0,Corcoran,California,Corcoran
+California,"Colfax, California",2015,,4631.0,Colfax,California,Colfax
+California,"Chico, California",2015,,13736.0,Chico,California,Chico
+California,"Chatsworth, California",2015,,72132.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2015,,29461.0,Carpinteria,California,Carpinteria
+California,"Carlsbad Village, California",2015,,13455.0,Carlsbad Village,California,Carlsbad Village
+California,"Carlsbad Poinsettia, California",2015,,9363.0,Carlsbad Poinsettia,California,Carlsbad Poinsettia
+California,"Camarillo, California",2015,,51831.0,Camarillo,California,Camarillo
+California,"Burbank, California",2015,,67924.0,Burbank,California,Burbank
+California,"Berkeley, California",2015,,136997.0,Berkeley,California,Berkeley
+California,"Barstow, California",2015,,3463.0,Barstow,California,Barstow
+California,"Bakersfield, California",2015,,513884.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2015,,14779.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2015,,43217.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2015,,270819.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2015,,8445.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Trinidad, Colorado",2015,,5158.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2015,,1928.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2015,,7256.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2015,,29811.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2015,,3945.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2015,,39713.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2015,,3705.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2015,,126403.0,Denver,Colorado,Denver
+Connecticut,"Windsor, Connecticut",2015,,12857.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2015,,21082.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2015,,13245.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2015,,394824.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2015,,60833.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2015,,154614.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2015,,698656.0,New Haven,Connecticut,New Haven
+Connecticut,"Mystic, Connecticut",2015,,23814.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2015,,27602.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2015,,171690.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2015,,80199.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2015,,21189.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2015,,700341.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2015,,12636.0,Newark,Delaware,Newark
+District of Columbia,"Washington Union Station, District of Columbia",2015,,4971128.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2015,,28310.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2015,,21965.0,Winter Haven,Florida,Winter Haven
+Florida,"West Palm Beach, Florida",2015,,59071.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Tampa, Florida",2015,,120565.0,Tampa,Florida,Tampa
+Florida,"Sebring, Florida",2015,,17397.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2015,,271622.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Palatka, Florida",2015,,12568.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2015,,145839.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2015,,4223.0,Okeechobee,Florida,Okeechobee
+Florida,"Miami, Florida",2015,,70560.0,Miami,Florida,Miami
+Florida,"Lakeland, Florida",2015,,21526.0,Lakeland,Florida,Lakeland
+Florida,"Kissimmee, Florida",2015,,41424.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2015,,71084.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2015,,28332.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2015,,46971.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2015,,14652.0,Delray Beach,Florida,Delray Beach
+Florida,"Deland, Florida",2015,,24310.0,Deland,Florida,Deland
+Florida,"Deerfield Beach, Florida",2015,,26777.0,Deerfield Beach,Florida,Deerfield Beach
+Georgia,"Toccoa, Georgia",2015,,2640.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2015,,59801.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2015,,10284.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2015,,6176.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2015,,85252.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2015,,7867.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2015,,12196.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2015,,184420.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2015,,6371.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2015,,46006.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2015,,35788.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2015,,15312.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2015,,6771.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2015,,46806.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2015,,24073.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2015,,41956.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2015,,71231.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2015,,23333.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2015,,13398.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2015,,15849.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2015,,21736.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2015,,64349.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2015,,41499.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2015,,58143.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2015,,3138.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2015,,100503.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2015,,27195.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2015,,10191.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2015,,10197.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2015,,3295630.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2015,,172877.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2015,,24804.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2015,,9626.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2015,,117922.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2015,,254317.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2015,,61249.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2015,,20030.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2015,,22867.0,South Bend,Indiana,South Bend
+Indiana,"Michigan City, Indiana",2015,,3783.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2015,,18849.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2015,,30153.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2015,,7463.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2015,,20741.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2015,,3463.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2015,,5300.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connellsville, Indiana",2015,,770.0,Connellsville,Indiana,Connellsville
+Indiana,"Albany/Rensselaer, Indiana",2015,,2090.0,Albany/Rensselaer,Indiana,Albany/Rensselaer
+Iowa,"Ottumwa, Iowa",2015,,11058.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2015,,13775.0,Osceola,Iowa,Osceola
+Iowa,"Mt. Pleasant, Iowa",2015,,11644.0,Mt. Pleasant,Iowa,Mt. Pleasant
+Iowa,"Fort Madison, Iowa",2015,,6788.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2015,,5017.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2015,,9329.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2015,,10399.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2015,,13010.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2015,,8319.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2015,,4925.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2015,,7972.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2015,,5048.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2015,,1057.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2015,,2279.0,Maysville,Kentucky,Maysville
+Kentucky,"Fulton, Kentucky",2015,,4138.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2015,,2581.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2015,,6127.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2015,,2028.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2015,,189456.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2015,,1729.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2015,,3920.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2015,,6699.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2015,,13905.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2015,,48674.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2015,,37561.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2015,,133210.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2015,,9943.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maine,"Freeport, Maine",2015,,11370.0,Freeport,Maine,Freeport
+Maine,"Brunswick, Maine",2015,,25754.0,Brunswick,Maine,Brunswick
+Maryland,"Rockville, Maryland",2015,,4883.0,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2015,,165066.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2015,,11493.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2015,,669.609,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2015,,993721.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2015,,53883.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2015,,7237.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2015,,16901.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2015,,124580.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2015,,444670.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2015,,7468.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Northampton, Massachusetts",2015,,11923.0,Northampton,Massachusetts,Northampton
+Massachusetts,"Holyoke, Massachusetts",2015,,96.0,Holyoke,Massachusetts,Holyoke
+Massachusetts,"Haverhill, Massachusetts",2015,,34857.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Greenfield, Massachusetts",2015,,5316.0,Greenfield,Massachusetts,Greenfield
+Massachusetts,"Framingham, Massachusetts",2015,,1963.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-South Station, Massachusetts",2015,,1544169.0,Boston-South Station,Massachusetts,Boston-South Station
+Massachusetts,"Boston-North Station, Massachusetts",2015,,358286.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2015,,578403.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Massachusetts,"Amherst, Massachusetts",2015,,4206.0,Amherst,Massachusetts,Amherst
+Michigan,"Troy, Michigan",2015,,22384.0,Troy,Michigan,Troy
+Michigan,"St. Joseph/Benton Harbor, Michigan",2015,,11976.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2015,,33694.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2015,,23979.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2015,,15876.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2015,,19095.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2015,,21911.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2015,,9527.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2015,,117997.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2015,,26674.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2015,,36994.0,Holland,Michigan,Holland
+Michigan,"Grand Rapids, Michigan",2015,,44249.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2015,,32197.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2015,,65355.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2015,,13577.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2015,,4474.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2015,,61497.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2015,,76537.0,Dearborn,Michigan,Dearborn
+Michigan,"Birmingham, Michigan",2015,,934.0,Birmingham,Michigan,Birmingham
+Michigan,"Battle Creek, Michigan",2015,,42894.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2015,,3895.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2015,,143130.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2015,,1816.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2015,,18966.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2015,,5238.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2015,,92090.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2015,,9950.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2015,,8004.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Detroit Lakes, Minnesota",2015,,4383.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Yazoo City, Mississippi",2015,,3784.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2015,,2223.0,Picayune,Mississippi,Picayune
+Mississippi,"Meridian, Mississippi",2015,,10863.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2015,,6377.0,McComb,Mississippi,McComb
+Mississippi,"Laurel, Mississippi",2015,,3650.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2015,,47900.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2015,,1926.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2015,,9940.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Greenwood, Mississippi",2015,,15294.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2015,,5172.0,Brookhaven,Mississippi,Brookhaven
+Missouri,"Washington, Missouri",2015,,15875.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2015,,15656.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2015,,323150.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2015,,10986.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2015,,5447.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2015,,28831.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2015,,11676.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2015,,58375.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2015,,153770.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2015,,43720.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2015,,8766.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2015,,22377.0,Hermann,Missouri,Hermann
+Montana,"Wolf Point, Montana",2015,,6057.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2015,,47548.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2015,,5761.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2015,,11399.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2015,,3211.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2015,,4793.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2015,,11181.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2015,,4109.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2015,,2456.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2015,,12043.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2015,,2144.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2015,,1576.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Omaha, Nebraska",2015,,26797.0,Omaha,Nebraska,Omaha
+Nebraska,"McCook, Nebraska",2015,,3342.0,McCook,Nebraska,McCook
+Nebraska,"Lincoln, Nebraska",2015,,15384.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2015,,2345.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2015,,5433.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2015,,3617.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Reno, Nevada",2015,,56696.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2015,,8050.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2015,,65216.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2015,,52898.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2015,,46834.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2015,,2117.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2015,,412267.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2015,,41610.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2015,,138724.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2015,,641346.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2015,,8365.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2015,,364805.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2015,,17686.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2015,,842.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2015,,5345.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy, New Mexico",2015,,12390.0,Lamy,New Mexico,Lamy
+New Mexico,"Gallup, New Mexico",2015,,16354.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2015,,1453.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2015,,79078.0,Albuquerque,New Mexico,Albuquerque
+New York,"Yonkers, New York",2015,,26127.0,Yonkers,New York,Yonkers
+New York,"Whitehall, New York",2015,,1866.0,Whitehall,New York,Whitehall
+New York,"Westport, New York",2015,,5097.0,Westport,New York,Westport
+New York,"Utica, New York",2015,,61145.0,Utica,New York,Utica
+New York,"Ticonderoga, New York",2015,,2324.0,Ticonderoga,New York,Ticonderoga
+New York,"Syracuse, New York",2015,,141396.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2015,,58551.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2015,,36299.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rouses Point, New York",2015,,1208.0,Rouses Point,New York,Rouses Point
+New York,"Rome, New York",2015,,9972.0,Rome,New York,Rome
+New York,"Rochester, New York",2015,,136816.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2015,,194477.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2015,,100791.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Port Kent, New York",2015,,727.0,Port Kent,New York,Port Kent
+New York,"Port Henry, New York",2015,,2472.0,Port Henry,New York,Port Henry
+New York,"Plattsburgh, New York",2015,,13989.0,Plattsburgh,New York,Plattsburgh
+New York,"Niagara Falls, New York",2015,,31831.0,Niagara Falls,New York,Niagara Falls
+New York,"New York City (Penn Station), New York",2015,,10189521.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2015,,85876.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2015,,196786.0,Hudson,New York,Hudson
+New York,"Fort Edward, New York",2015,,9616.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2015,,48773.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2015,,41584.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2015,,116496.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2015,,11155.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2015,,825353.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2015,,62404.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2015,,7567.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2015,,13597.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2015,,26061.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2015,,54331.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2015,,159784.0,Raleigh,North Carolina,Raleigh
+North Carolina,"Kannapolis, North Carolina",2015,,18713.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2015,,37225.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2015,,4944.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2015,,123080.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2015,,1508.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2015,,57171.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2015,,80013.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2015,,184911.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2015,,88616.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2015,,24781.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2015,,38621.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2015,,6514.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2015,,4254.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2015,,32108.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2015,,12139.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2015,,22939.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2015,,3512.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Toledo, Ohio",2015,,58592.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2015,,8853.0,Sandusky,Ohio,Sandusky
+Ohio,"Elyria, Ohio",2015,,6578.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2015,,46514.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2015,,12503.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2015,,5608.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2015,,4714.0,Alliance,Ohio,Alliance
+Oklahoma,"Purcell, Oklahoma",2015,,1960.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2015,,4535.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2015,,45691.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2015,,11781.0,Norman,Oklahoma,Norman
+Oklahoma,"Ardmore, Oklahoma",2015,,7967.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2015,,57565.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2015,,561596.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2015,,13080.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2015,,30713.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2015,,98523.0,Eugene,Oregon,Eugene
+Oregon,"Chemult, Oregon",2015,,9821.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2015,,32503.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2015,,3324.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2015,,149587.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia-North, Pennsylvania",2015,,832.0,Philadelphia-North,Pennsylvania,Philadelphia-North
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2015,,4138777.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2015,,48563.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2015,,176474.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"Mount Joy, Pennsylvania",2015,,50664.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2015,,68484.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2015,,9125.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2015,,4850.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2015,,541252.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2015,,24310.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2015,,6616.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2015,,508685.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2015,,14773.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2015,,113974.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2015,,16633.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2015,,109834.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2015,,61442.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2015,,2271.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2015,,4871.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2015,,14532.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2015,,61587.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2015,,25175.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2015,,40916.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2015,,690752.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2015,,157547.0,Kingston,Rhode Island,Kingston
+South Carolina,"Yemassee, South Carolina",2015,,12340.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2015,,4143.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2015,,13849.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2015,,11913.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2015,,50606.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2015,,8037.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2015,,3823.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2015,,33543.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2015,,4977.0,Clemson,South Carolina,Clemson
+South Carolina,"Charleston, South Carolina",2015,,71190.0,Charleston,South Carolina,Charleston
+South Carolina,"Camden, South Carolina",2015,,3563.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2015,,3900.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2015,,72044.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2015,,16023.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2015,,4798.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2015,,316.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2015,,7568.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2015,,55627.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2015,,6423.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2015,,4834.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2015,,9390.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2015,,32278.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2015,,20620.0,Houston,Texas,Houston
+Texas,"Gainesville, Texas",2015,,7132.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2015,,109507.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2015,,13915.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2015,,1960.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2015,,45132.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2015,,3612.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2015,,3265.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2015,,33195.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2015,,4969.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2015,,37316.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2015,,4403.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2015,,2092.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2015,,2270.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2015,,1208.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2015,,14810.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2015,,5891.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2015,,4096.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2015,,16539.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2015,,2073.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2015,,8818.0,Montpelier,Vermont,Montpelier
+Vermont,"Essex Junction, Vermont",2015,,21315.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Castleton, Vermont",2015,,4587.0,Castleton,Vermont,Castleton
+Vermont,"Brattleboro, Vermont",2015,,18963.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2015,,4828.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Woodbridge, Virginia",2015,,24212.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2015,,61625.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2015,,6735.0,Staunton,Virginia,Staunton
+Virginia,"Richmond - Staples Mill, Virginia",2015,,361996.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2015,,45062.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2015,,32754.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2015,,29892.0,Petersburg,Virginia,Petersburg
+Virginia,"Norfolk, Virginia",2015,,44852.0,Norfolk,Virginia,Norfolk
+Virginia,"Newport News, Virginia",2015,,115440.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2015,,28220.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2015,,84975.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2015,,271622.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2015,,117423.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Danville, Virginia",2015,,7736.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2015,,14508.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2015,,2247.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2015,,134485.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Burke Centre, Virginia",2015,,7241.0,Burke Centre,Virginia,Burke Centre
+Virginia,"Ashland, Virginia",2015,,28141.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2015,,186841.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2015,,1300.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2015,,12696.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2015,,93433.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2015,,28503.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2015,,118223.0,Tacoma,Washington,Tacoma
+Washington,"Stanwood, Washington",2015,,4499.0,Stanwood,Washington,Stanwood
+Washington,"Spokane, Washington",2015,,50365.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2015,,604832.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2015,,22471.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2015,,61535.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2015,,18193.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2015,,7538.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2015,,31017.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2015,,40693.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2015,,3443.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2015,,30012.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2015,,24791.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2015,,3081.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2015,,51915.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2015,,5107.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2015,,295.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2015,,2925.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2015,,639.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2015,,10309.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2015,,10706.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2015,,7506.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2015,,6314.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston, West Virginia",2015,,9844.0,Charleston,West Virginia,Charleston
+West Virginia,"Alderson, West Virginia",2015,,432.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2015,,13240.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2015,,10300.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2015,,74472.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2015,,6116.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2015,,594076.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2015,,157042.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2015,,24269.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2015,,12906.0,Columbus,Wisconsin,Columbus

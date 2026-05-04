@@ -1,0 +1,536 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2005,,4904.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Mobile, Alabama",2005,,570.0,Mobile,Alabama,Mobile
+Alabama,"Birmingham, Alabama",2005,,16558.0,Birmingham,Alabama,Birmingham
+Alabama,"Atmore, Alabama",2005,,115.0,Atmore,Alabama,Atmore
+Alabama,"Anniston, Alabama",2005,,2419.0,Anniston,Alabama,Anniston
+Arizona,"Yuma, Arizona",2005,,877.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2005,,1378.0,Winslow,Arizona,Winslow
+Arizona,"Williams Junction, Arizona",2005,,2889.0,Williams Junction,Arizona,Williams Junction
+Arizona,"Tucson, Arizona",2005,,6880.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2005,,3023.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2005,,3142.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2005,,17370.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2005,,537.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2005,,1343.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2005,,2983.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2005,,779.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2005,,7290.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Arkadelphia, Arkansas",2005,,481.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Wasco, California",2005,,5340.0,Wasco,California,Wasco
+California,"Victorville, California",2005,,1848.0,Victorville,California,Victorville
+California,"Ventura, California",2005,,16024.0,Ventura,California,Ventura
+California,"Van Nuys, California",2005,,30402.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2005,,6579.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2005,,2949.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2005,,56060.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Stockton (San Joaquin St.), California",2005,,83236.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2005,,6740.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Solana Beach, California",2005,,206230.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2005,,14599.0,Simi Valley,California,Simi Valley
+California,"Santa Barbara, California",2005,,111339.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2005,,85073.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2005,,37498.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2005,,126214.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2005,,77307.0,San Jose,California,San Jose
+California,"San Diego, California",2005,,432248.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2005,,7852.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2005,,2534.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2005,,4688.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2005,,6388.0,Salinas,California,Salinas
+California,"Sacramento, California",2005,,472450.0,Sacramento,California,Sacramento
+California,"Roseville, California",2005,,29334.0,Roseville,California,Roseville
+California,"Rocklin, California",2005,,15635.0,Rocklin,California,Rocklin
+California,"Riverside, California",2005,,3100.0,Riverside,California,Riverside
+California,"Richmond, California",2005,,106821.0,Richmond,California,Richmond
+California,"Redding, California",2005,,3153.0,Redding,California,Redding
+California,"Pomona, California",2005,,351.0,Pomona,California,Pomona
+California,"Paso Robles, California",2005,,2643.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2005,,810.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2005,,34912.0,Oxnard,California,Oxnard
+California,"Ontario, California",2005,,1416.0,Ontario,California,Ontario
+California,"Oceanside, California",2005,,155251.0,Oceanside,California,Oceanside
+California,"Oakland, California",2005,,143147.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2005,,809.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2005,,4581.0,Needles,California,Needles
+California,"Moorpark, California",2005,,4595.0,Moorpark,California,Moorpark
+California,"Modesto, California",2005,,35883.0,Modesto,California,Modesto
+California,"Merced, California",2005,,37641.0,Merced,California,Merced
+California,"Martinez, California",2005,,150222.0,Martinez,California,Martinez
+California,"Madera, California",2005,,5565.0,Madera,California,Madera
+California,"Los Angeles, California",2005,,690068.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2005,,2219.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2005,,2851.0,Lodi,California,Lodi
+California,"Irvine, California",2005,,281576.0,Irvine,California,Irvine
+California,"Hayward, California",2005,,11416.0,Hayward,California,Hayward
+California,"Hanford, California",2005,,69588.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2005,,3425.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2005,,6489.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2005,,37275.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2005,,25640.0,Goleta,California,Goleta
+California,"Glendale, California",2005,,17342.0,Glendale,California,Glendale
+California,"Fullerton, California",2005,,201862.0,Fullerton,California,Fullerton
+California,"Fresno, California",2005,,128284.0,Fresno,California,Fresno
+California,"Fremont, California",2005,,13772.0,Fremont,California,Fremont
+California,"Emeryville, California",2005,,254039.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2005,,1989.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2005,,171637.0,Davis,California,Davis
+California,"Corcoran, California",2005,,11745.0,Corcoran,California,Corcoran
+California,"Colfax, California",2005,,1622.0,Colfax,California,Colfax
+California,"Chico, California",2005,,2862.0,Chico,California,Chico
+California,"Chatsworth, California",2005,,19828.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2005,,7048.0,Carpinteria,California,Carpinteria
+California,"Camarillo, California",2005,,9696.0,Camarillo,California,Camarillo
+California,"Burbank, California",2005,,14050.0,Burbank,California,Burbank
+California,"Berkeley, California",2005,,35444.0,Berkeley,California,Berkeley
+California,"Barstow, California",2005,,1380.0,Barstow,California,Barstow
+California,"Bakersfield, California",2005,,185089.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2005,,16707.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2005,,9455.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2005,,157609.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2005,,4976.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Trinidad, Colorado",2005,,2197.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2005,,1015.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2005,,3471.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2005,,10835.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2005,,1371.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2005,,14986.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2005,,1450.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2005,,65194.0,Denver,Colorado,Denver
+Connecticut,"Windsor, Connecticut",2005,,4103.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2005,,5437.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2005,,5284.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2005,,141723.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2005,,28248.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2005,,73731.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2005,,327178.0,New Haven,Connecticut,New Haven
+Connecticut,"Mystic, Connecticut",2005,,7380.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2005,,13131.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2005,,79467.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2005,,27818.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2005,,11699.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2005,,387328.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2005,,2206.0,Newark,Delaware,Newark
+Delaware,"Georgetown, Delaware",2005,,420.0,Georgetown,Delaware,Georgetown
+District of Columbia,"Washington Union Station, District of Columbia",2005,,1880852.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2005,,11738.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2005,,11353.0,Winter Haven,Florida,Winter Haven
+Florida,"Wildwood, Florida",2005,,98.0,Wildwood,Florida,Wildwood
+Florida,"West Palm Beach, Florida",2005,,24345.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Waldo, Florida",2005,,159.0,Waldo,Florida,Waldo
+Florida,"Tampa, Florida",2005,,26387.0,Tampa,Florida,Tampa
+Florida,"Tallahassee, Florida",2005,,1216.0,Tallahassee,Florida,Tallahassee
+Florida,"Sebring, Florida",2005,,7603.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2005,,100772.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Pensacola, Florida",2005,,1616.0,Pensacola,Florida,Pensacola
+Florida,"Palatka, Florida",2005,,5439.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2005,,70772.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2005,,1506.0,Okeechobee,Florida,Okeechobee
+Florida,"Ocala, Florida",2005,,344.0,Ocala,Florida,Ocala
+Florida,"Miami, Florida",2005,,33708.0,Miami,Florida,Miami
+Florida,"Madison, Florida",2005,,187.0,Madison,Florida,Madison
+Florida,"Lakeland, Florida",2005,,6569.0,Lakeland,Florida,Lakeland
+Florida,"Lake City, Florida",2005,,281.0,Lake City,Florida,Lake City
+Florida,"Kissimmee, Florida",2005,,15659.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2005,,32231.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2005,,14783.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2005,,20552.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2005,,3753.0,Delray Beach,Florida,Delray Beach
+Florida,"Deland, Florida",2005,,9782.0,Deland,Florida,Deland
+Florida,"Deerfield Beach, Florida",2005,,11716.0,Deerfield Beach,Florida,Deerfield Beach
+Florida,"Dade City, Florida",2005,,77.0,Dade City,Florida,Dade City
+Florida,"Crestview, Florida",2005,,539.0,Crestview,Florida,Crestview
+Florida,"Chipley, Florida",2005,,718.0,Chipley,Florida,Chipley
+Georgia,"Toccoa, Georgia",2005,,1586.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2005,,19427.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2005,,2984.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2005,,2238.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2005,,44229.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2005,,2721.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2005,,1660.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2005,,52929.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2005,,412.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2005,,14942.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2005,,9493.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2005,,3911.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2005,,1062.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2005,,17641.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2005,,5820.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2005,,7730.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2005,,19121.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2005,,7421.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2005,,3391.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2005,,3859.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2005,,4002.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2005,,11824.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2005,,11013.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2005,,20617.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2005,,474.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2005,,36489.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2005,,5179.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2005,,2263.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2005,,2103.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2005,,1226962.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2005,,39863.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2005,,5926.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2005,,2680.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2005,,38905.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2005,,47201.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2005,,16683.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2005,,9380.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2005,,9411.0,South Bend,Indiana,South Bend
+Indiana,"Rensselaer, Indiana",2005,,565.0,Rensselaer,Indiana,Rensselaer
+Indiana,"Nappanee, Indiana",2005,,616.0,Nappanee,Indiana,Nappanee
+Indiana,"Michigan City, Indiana",2005,,1217.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2005,,6236.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2005,,12208.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2005,,4669.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2005,,4197.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2005,,533.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2005,,1598.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connersville, Indiana",2005,,222.0,Connersville,Indiana,Connersville
+Iowa,"Ottumwa, Iowa",2005,,5404.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2005,,7904.0,Osceola,Iowa,Osceola
+Iowa,"Mount Pleasant, Iowa",2005,,6423.0,Mount Pleasant,Iowa,Mount Pleasant
+Iowa,"Fort Madison, Iowa",2005,,5005.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2005,,2308.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2005,,3244.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2005,,3080.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2005,,6549.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2005,,1666.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2005,,1774.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2005,,2883.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2005,,1792.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2005,,394.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2005,,892.0,Maysville,Kentucky,Maysville
+Kentucky,"Louisville, Kentucky",2005,,50.0,Louisville,Kentucky,Louisville
+Kentucky,"Fulton, Kentucky",2005,,1115.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2005,,1259.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2005,,2345.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2005,,187.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2005,,73520.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2005,,301.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2005,,708.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2005,,935.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2005,,4537.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2005,,14375.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2005,,10745.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2005,,58670.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2005,,3662.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maryland,"Rockville, Maryland",2005,,1175.0,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2005,,111824.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2005,,3556.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2005,,291606.0,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2005,,485279.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2005,,23438.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2005,,3179.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2005,,4529.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2005,,54162.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2005,,160640.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2005,,1920.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Haverhill, Massachusetts",2005,,6886.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Framingham, Massachusetts",2005,,896.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-North Station, Massachusetts",2005,,117358.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2005,,632173.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Massachusetts,"Amherst, Massachusetts",2005,,4464.0,Amherst,Massachusetts,Amherst
+Michigan,"St. Joseph/Benton Harbor, Michigan",2005,,3697.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2005,,10677.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2005,,5088.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2005,,7336.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2005,,8366.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2005,,708.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2005,,2815.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2005,,44646.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2005,,12639.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2005,,17421.0,Holland,Michigan,Holland
+Michigan,"Greenfield Village, Michigan",2005,,322.0,Greenfield Village,Michigan,Greenfield Village
+Michigan,"Grand Rapids, Michigan",2005,,25240.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2005,,11222.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2005,,20168.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2005,,3402.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2005,,898.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2005,,28585.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2005,,35163.0,Dearborn,Michigan,Dearborn
+Michigan,"Birmingham, Michigan",2005,,9118.0,Birmingham,Michigan,Birmingham
+Michigan,"Battle Creek, Michigan",2005,,23221.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2005,,1655.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2005,,64904.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2005,,888.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2005,,10590.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2005,,2613.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2005,,67507.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2005,,5764.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2005,,4544.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Duluth, Minnesota",2005,,500.0,Duluth,Minnesota,Duluth
+Minnesota,"Detroit Lakes, Minnesota",2005,,1707.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Yazoo City, Mississippi",2005,,1300.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2005,,736.0,Picayune,Mississippi,Picayune
+Mississippi,"Pascagoula, Mississippi",2005,,137.0,Pascagoula,Mississippi,Pascagoula
+Mississippi,"Meridian, Mississippi",2005,,5981.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2005,,2316.0,McComb,Mississippi,McComb
+Mississippi,"Laurel, Mississippi",2005,,1813.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2005,,15947.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2005,,558.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2005,,5185.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Gulfport, Mississippi",2005,,387.0,Gulfport,Mississippi,Gulfport
+Mississippi,"Greenwood, Mississippi",2005,,5095.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2005,,1955.0,Brookhaven,Mississippi,Brookhaven
+Mississippi,"Biloxi, Mississippi",2005,,310.0,Biloxi,Mississippi,Biloxi
+Mississippi,"Bay St. Louis, Mississippi",2005,,101.0,Bay St. Louis,Mississippi,Bay St. Louis
+Missouri,"Washington, Missouri",2005,,5096.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2005,,5026.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2005,,88189.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2005,,4904.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2005,,1466.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2005,,10122.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2005,,4109.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2005,,22056.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2005,,58907.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2005,,20591.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2005,,2660.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2005,,5073.0,Hermann,Missouri,Hermann
+Montana,"Wolf Point, Montana",2005,,3893.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2005,,31038.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2005,,2416.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2005,,7118.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2005,,1717.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2005,,2779.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2005,,7881.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2005,,3321.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2005,,1746.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2005,,5865.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2005,,1169.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2005,,1284.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Omaha, Nebraska",2005,,12640.0,Omaha,Nebraska,Omaha
+Nebraska,"McCook, Nebraska",2005,,1348.0,McCook,Nebraska,McCook
+Nebraska,"Lincoln, Nebraska",2005,,5292.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2005,,925.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2005,,1947.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2005,,928.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Sparks, Nevada",2005,,10456.0,Sparks,Nevada,Sparks
+Nevada,"Reno, Nevada",2005,,24148.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2005,,2166.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2005,,26546.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2005,,17621.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2005,,14574.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2005,,716.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2005,,439730.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2005,,362846.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2005,,605527.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2005,,37033.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2005,,70325.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2005,,180400.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2005,,9870.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2005,,117.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2005,,1576.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy, New Mexico",2005,,6561.0,Lamy,New Mexico,Lamy
+New Mexico,"Gallup, New Mexico",2005,,5181.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2005,,289.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2005,,31699.0,Albuquerque,New Mexico,Albuquerque
+New York,"Yonkers, New York",2005,,7681.0,Yonkers,New York,Yonkers
+New York,"Whitehall, New York",2005,,739.0,Whitehall,New York,Whitehall
+New York,"Westport, New York",2005,,2118.0,Westport,New York,Westport
+New York,"Utica, New York",2005,,21830.0,Utica,New York,Utica
+New York,"Syracuse, New York",2005,,47693.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2005,,21362.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2005,,13586.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rouses Point, New York",2005,,743.0,Rouses Point,New York,Rouses Point
+New York,"Rome, New York",2005,,3108.0,Rome,New York,Rome
+New York,"Rochester, New York",2005,,37666.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2005,,84492.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2005,,26270.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Port Kent, New York",2005,,151.0,Port Kent,New York,Port Kent
+New York,"Port Henry, New York",2005,,688.0,Port Henry,New York,Port Henry
+New York,"Plattsburgh, New York",2005,,5260.0,Plattsburgh,New York,Plattsburgh
+New York,"Niagara Falls, New York",2005,,11146.0,Niagara Falls,New York,Niagara Falls
+New York,"New York State Fair, New York",2005,,420.0,New York State Fair,New York,New York State Fair
+New York,"New York City (Penn Station), New York",2005,,4264625.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2005,,33737.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2005,,73537.0,Hudson,New York,Hudson
+New York,"Fort Ticonderoga, New York",2005,,729.0,Fort Ticonderoga,New York,Fort Ticonderoga
+New York,"Fort Edward, New York",2005,,2956.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2005,,17419.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2005,,7751.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2005,,38608.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2005,,3139.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2005,,366946.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2005,,14939.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2005,,2090.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2005,,4024.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2005,,8291.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2005,,28325.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2005,,57457.0,Raleigh,North Carolina,Raleigh
+North Carolina,"North Carolina State Fair, North Carolina",2005,,1710.0,North Carolina State Fair,North Carolina,North Carolina State Fair
+North Carolina,"Lexington, North Carolina (Special Stop)",2005,,85.0,Lexington,North Carolina,Lexington
+North Carolina,"Kannapolis, North Carolina",2005,,3665.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2005,,7281.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2005,,2031.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2005,,29373.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2005,,866.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2005,,18277.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2005,,17498.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2005,,54170.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2005,,7659.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2005,,4700.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2005,,9810.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2005,,1273.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2005,,3122.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2005,,16816.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2005,,8918.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2005,,9191.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2005,,3017.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Youngstown, Ohio",2005,,829.0,Youngstown,Ohio,Youngstown
+Ohio,"Toledo, Ohio",2005,,28153.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2005,,2340.0,Sandusky,Ohio,Sandusky
+Ohio,"Hamilton, Ohio",2005,,676.0,Hamilton,Ohio,Hamilton
+Ohio,"Fostoria, Ohio",2005,,334.0,Fostoria,Ohio,Fostoria
+Ohio,"Elyria, Ohio",2005,,1395.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2005,,16382.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2005,,6415.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2005,,3250.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2005,,1445.0,Alliance,Ohio,Alliance
+Ohio,"Akron, Ohio",2005,,1333.0,Akron,Ohio,Akron
+Oklahoma,"Purcell, Oklahoma",2005,,1157.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2005,,3142.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2005,,21572.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2005,,6054.0,Norman,Oklahoma,Norman
+Oklahoma,"Guthrie, Oklahoma",2005,,49.0,Guthrie,Oklahoma,Guthrie
+Oklahoma,"Ardmore, Oklahoma",2005,,5196.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2005,,24199.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2005,,240918.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2005,,3093.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2005,,13787.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2005,,44245.0,Eugene,Oregon,Eugene
+Oregon,"Coos Bay, Oregon",2005,,0.0,Coos Bay,Oregon,Coos Bay
+Oregon,"Chemult, Oregon",2005,,4120.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2005,,12469.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2005,,717.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2005,,55680.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia-North, Pennsylvania",2005,,762.0,Philadelphia-North,Pennsylvania,Philadelphia-North
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2005,,1868800.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2005,,12221.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2005,,35975.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"Mount Joy, Pennsylvania",2005,,13294.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2005,,13372.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2005,,3563.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2005,,1463.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2005,,166827.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2005,,7585.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2005,,2315.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2005,,171340.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2005,,5064.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2005,,20605.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2005,,4224.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2005,,24489.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2005,,13419.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2005,,12436.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2005,,1696.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2005,,3132.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2005,,20340.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2005,,10095.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2005,,13567.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2005,,242088.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2005,,62521.0,Kingston,Rhode Island,Kingston
+South Carolina,"Yemassee, South Carolina",2005,,4571.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2005,,2189.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2005,,5274.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2005,,6142.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2005,,16691.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2005,,2341.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2005,,2198.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2005,,15400.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2005,,2396.0,Clemson,South Carolina,Clemson
+South Carolina,"Charleston, South Carolina",2005,,25248.0,Charleston,South Carolina,Charleston
+South Carolina,"Camden, South Carolina",2005,,1566.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2005,,1218.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2005,,23317.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2005,,5158.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2005,,1880.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2005,,69.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2005,,1807.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2005,,22723.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2005,,1809.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2005,,1136.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2005,,3147.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2005,,12664.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2005,,6096.0,Houston,Texas,Houston
+Texas,"Galveston, Texas",2005,,40.0,Galveston,Texas,Galveston
+Texas,"Gainesville, Texas",2005,,4557.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2005,,42498.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2005,,4950.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2005,,623.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2005,,17977.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2005,,915.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2005,,539.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2005,,10754.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2005,,798.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2005,,12996.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2005,,1629.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2005,,698.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2005,,709.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2005,,266.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2005,,5647.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2005,,1291.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2005,,1960.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2005,,6307.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2005,,570.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2005,,1938.0,Montpelier,Vermont,Montpelier
+Vermont,"Fair Haven, Vermont",2005,,598.0,Fair Haven,Vermont,Fair Haven
+Vermont,"Essex Junction, Vermont",2005,,3317.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Brattleboro, Vermont",2005,,3991.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2005,,1289.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Woodbridge, Virginia",2005,,2975.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2005,,19179.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2005,,2387.0,Staunton,Virginia,Staunton
+Virginia,"Richmond - Staples Mill, Virginia",2005,,125707.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2005,,5805.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2005,,5873.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2005,,8688.0,Petersburg,Virginia,Petersburg
+Virginia,"Newport News, Virginia",2005,,46397.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2005,,3774.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2005,,8498.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2005,,108434.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2005,,16825.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Franconia-Springfield, Virginia",2005,,229.0,Franconia-Springfield,Virginia,Franconia-Springfield
+Virginia,"Danville, Virginia",2005,,1810.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2005,,1707.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2005,,1793.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2005,,22161.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Ashland, Virginia",2005,,6845.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2005,,41383.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2005,,1157.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2005,,7005.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2005,,37253.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2005,,6305.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2005,,53390.0,Tacoma,Washington,Tacoma
+Washington,"Spokane, Washington",2005,,20676.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2005,,307290.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2005,,9873.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2005,,20990.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2005,,9147.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2005,,4440.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2005,,10514.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2005,,20650.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2005,,1208.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2005,,14642.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2005,,9527.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2005,,832.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2005,,28454.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2005,,1966.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2005,,60.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2005,,1647.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2005,,413.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2005,,2659.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2005,,6988.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2005,,5578.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2005,,1446.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston, West Virginia",2005,,4156.0,Charleston,West Virginia,Charleston
+West Virginia,"Alderson, West Virginia",2005,,256.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2005,,5383.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2005,,3844.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2005,,25616.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2005,,3101.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2005,,238850.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2005,,16062.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2005,,11598.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2005,,7344.0,Columbus,Wisconsin,Columbus

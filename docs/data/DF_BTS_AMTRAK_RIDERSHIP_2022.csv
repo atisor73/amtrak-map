@@ -1,0 +1,514 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2022,,5389.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Birmingham, Alabama",2022,,21211.0,Birmingham,Alabama,Birmingham
+Alabama,"Anniston, Alabama",2022,,2486.0,Anniston,Alabama,Anniston
+Arizona,"Yuma, Arizona",2022,,4403.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2022,,2652.0,Winslow,Arizona,Winslow
+Arizona,"Tucson, Arizona",2022,,19115.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2022,,10520.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2022,,6919.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2022,,25499.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2022,,1743.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2022,,2340.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2022,,4814.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2022,,1558.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2022,,13492.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Hope, Arkansas",2022,,1322.0,Hope,Arkansas,Hope
+Arkansas,"Arkadelphia, Arkansas",2022,,956.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Wasco, California",2022,,22781.0,Wasco,California,Wasco
+California,"Victorville, California",2022,,4554.0,Victorville,California,Victorville
+California,"Ventura, California",2022,,43659.0,Ventura,California,Ventura
+California,"Van Nuys, California",2022,,44026.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2022,,21437.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2022,,9997.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2022,,38530.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Stockton (San Joaquin St.), California",2022,,212527.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2022,,2824.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Solana Beach, California",2022,,176089.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2022,,26689.0,Simi Valley,California,Simi Valley
+California,"Santa Clara (University), California",2022,,21489.0,Santa Clara (University),California,Santa Clara (University)
+California,"Santa Barbara, California",2022,,213697.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2022,,95854.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2022,,75279.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2022,,117526.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2022,,110949.0,San Jose,California,San Jose
+California,"San Diego, California",2022,,443091.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2022,,253617.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2022,,14107.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2022,,6855.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2022,,16160.0,Salinas,California,Salinas
+California,"Sacramento, California",2022,,456647.0,Sacramento,California,Sacramento
+California,"Roseville, California",2022,,21022.0,Roseville,California,Roseville
+California,"Rocklin, California",2022,,5031.0,Rocklin,California,Rocklin
+California,"Riverside, California",2022,,6947.0,Riverside,California,Riverside
+California,"Richmond, California",2022,,114929.0,Richmond,California,Richmond
+California,"Redding, California",2022,,6625.0,Redding,California,Redding
+California,"Pomona, California",2022,,1131.0,Pomona,California,Pomona
+California,"Paso Robles, California",2022,,8197.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2022,,2224.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2022,,59653.0,Oxnard,California,Oxnard
+California,"Ontario, California",2022,,3374.0,Ontario,California,Ontario
+California,"Oceanside, California",2022,,185734.0,Oceanside,California,Oceanside
+California,"Oakland, California",2022,,154266.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2022,,23557.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2022,,4667.0,Needles,California,Needles
+California,"Moorpark, California",2022,,16960.0,Moorpark,California,Moorpark
+California,"Modesto, California",2022,,76286.0,Modesto,California,Modesto
+California,"Merced, California",2022,,94304.0,Merced,California,Merced
+California,"Martinez, California",2022,,176571.0,Martinez,California,Martinez
+California,"Madera, California",2022,,19014.0,Madera,California,Madera
+California,"Los Angeles, California",2022,,928558.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2022,,7560.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2022,,1584.0,Lodi,California,Lodi
+California,"Irvine, California",2022,,180103.0,Irvine,California,Irvine
+California,"Hayward, California",2022,,20641.0,Hayward,California,Hayward
+California,"Hanford, California",2022,,97628.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2022,,9744.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2022,,12748.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2022,,39593.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2022,,52365.0,Goleta,California,Goleta
+California,"Glendale, California",2022,,31521.0,Glendale,California,Glendale
+California,"Fullerton, California",2022,,172130.0,Fullerton,California,Fullerton
+California,"Fresno, California",2022,,221781.0,Fresno,California,Fresno
+California,"Fremont, California",2022,,21216.0,Fremont,California,Fremont
+California,"Fairfield-Vacaville, California",2022,,39248.0,Fairfield-Vacaville,California,Fairfield-Vacaville
+California,"Emeryville, California",2022,,283631.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2022,,3496.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2022,,163636.0,Davis,California,Davis
+California,"Corcoran, California",2022,,14964.0,Corcoran,California,Corcoran
+California,"Colfax, California",2022,,3753.0,Colfax,California,Colfax
+California,"Chico, California",2022,,7625.0,Chico,California,Chico
+California,"Chatsworth, California",2022,,38654.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2022,,15883.0,Carpinteria,California,Carpinteria
+California,"Camarillo, California",2022,,31862.0,Camarillo,California,Camarillo
+California,"Burbank, California",2022,,43671.0,Burbank,California,Burbank
+California,"Berkeley, California",2022,,57302.0,Berkeley,California,Berkeley
+California,"Barstow, California",2022,,1959.0,Barstow,California,Barstow
+California,"Bakersfield, California",2022,,314684.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2022,,5357.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2022,,24262.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2022,,158796.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2022,,6466.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Winter Park Resort (seasonal), Colorado",2022,,16958.0,Winter Park Resort (seasonal),Colorado,Winter Park Resort (seasonal)
+Colorado,"Trinidad, Colorado",2022,,4896.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2022,,915.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2022,,4799.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2022,,20712.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2022,,3256.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2022,,32519.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2022,,2019.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2022,,104513.0,Denver,Colorado,Denver
+Connecticut,"Windsor, Connecticut",2022,,12987.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2022,,19733.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2022,,7141.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2022,,269195.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2022,,61265.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2022,,138728.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2022,,617119.0,New Haven,Connecticut,New Haven
+Connecticut,"New Haven State Street, Connecticut",2022,,15727.0,New Haven State Street,Connecticut,New Haven State Street
+Connecticut,"Mystic, Connecticut",2022,,24160.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2022,,16373.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2022,,149625.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2022,,98572.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2022,,17812.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2022,,433876.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2022,,22125.0,Newark,Delaware,Newark
+District of Columbia,"Washington Union Station, District of Columbia",2022,,3631677.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2022,,16388.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2022,,17397.0,Winter Haven,Florida,Winter Haven
+Florida,"West Palm Beach, Florida",2022,,39440.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Tampa, Florida",2022,,110901.0,Tampa,Florida,Tampa
+Florida,"Sebring, Florida",2022,,10301.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2022,,269381.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Palatka, Florida",2022,,8641.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2022,,89933.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2022,,4104.0,Okeechobee,Florida,Okeechobee
+Florida,"Miami, Florida",2022,,50992.0,Miami,Florida,Miami
+Florida,"Lakeland, Florida",2022,,16803.0,Lakeland,Florida,Lakeland
+Florida,"Kissimmee, Florida",2022,,26862.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2022,,48144.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2022,,17060.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2022,,31194.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2022,,10476.0,Delray Beach,Florida,Delray Beach
+Florida,"DeLand, Florida",2022,,13442.0,DeLand,Florida,DeLand
+Florida,"Deerfield Beach, Florida",2022,,15142.0,Deerfield Beach,Florida,Deerfield Beach
+Georgia,"Toccoa, Georgia",2022,,1304.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2022,,48796.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2022,,5959.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2022,,3320.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2022,,49579.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2022,,4537.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2022,,15111.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2022,,118743.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2022,,3526.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2022,,25040.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2022,,21887.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2022,,10627.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2022,,4746.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2022,,26991.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2022,,14892.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2022,,22004.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2022,,41675.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2022,,15547.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2022,,8407.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2022,,12073.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2022,,11135.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2022,,54905.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2022,,26722.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2022,,38221.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2022,,1373.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2022,,59510.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2022,,12798.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2022,,4941.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2022,,4196.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2022,,2359084.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2022,,173549.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2022,,11025.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2022,,8053.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2022,,55051.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2022,,178018.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2022,,49368.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2022,,16945.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2022,,18848.0,South Bend,Indiana,South Bend
+Indiana,"Rensselaer, Indiana",2022,,479.0,Rensselaer,Indiana,Rensselaer
+Indiana,"Michigan City, Indiana",2022,,817.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2022,,4271.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2022,,10881.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2022,,3031.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2022,,16157.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2022,,959.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2022,,1235.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connersville, Indiana",2022,,373.0,Connersville,Indiana,Connersville
+Iowa,"Ottumwa, Iowa",2022,,6799.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2022,,9377.0,Osceola,Iowa,Osceola
+Iowa,"Mount Pleasant, Iowa",2022,,6730.0,Mount Pleasant,Iowa,Mount Pleasant
+Iowa,"Fort Madison, Iowa",2022,,4036.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2022,,1785.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2022,,4998.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2022,,5576.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2022,,10978.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2022,,5331.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2022,,2637.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2022,,4945.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2022,,3519.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2022,,732.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2022,,1527.0,Maysville,Kentucky,Maysville
+Kentucky,"Fulton, Kentucky",2022,,2511.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2022,,1350.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2022,,3219.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2022,,933.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2022,,99672.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2022,,1178.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2022,,2550.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2022,,3871.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2022,,6023.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2022,,42513.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2022,,45887.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2022,,145776.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2022,,18730.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maine,"Freeport, Maine",2022,,24163.0,Freeport,Maine,Freeport
+Maine,"Brunswick, Maine",2022,,65109.0,Brunswick,Maine,Brunswick
+Maryland,"Rockville, Maryland",2022,,4058.0,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2022,,169699.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2022,,8350.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2022,,522353.0,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2022,,838591.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2022,,32935.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2022,,5068.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2022,,13626.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2022,,112712.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2022,,303652.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2022,,10493.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Northampton, Massachusetts",2022,,27801.0,Northampton,Massachusetts,Northampton
+Massachusetts,"Holyoke, Massachusetts",2022,,2423.0,Holyoke,Massachusetts,Holyoke
+Massachusetts,"Haverhill, Massachusetts",2022,,23156.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Greenfield, Massachusetts",2022,,8927.0,Greenfield,Massachusetts,Greenfield
+Massachusetts,"Framingham, Massachusetts",2022,,1586.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-South Station, Massachusetts",2022,,1216560.0,Boston-South Station,Massachusetts,Boston-South Station
+Massachusetts,"Boston-North Station, Massachusetts",2022,,346610.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2022,,606967.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Michigan,"Troy, Michigan",2022,,25769.0,Troy,Michigan,Troy
+Michigan,"St. Joseph/Benton Harbor, Michigan",2022,,11741.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2022,,20432.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2022,,10177.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2022,,12013.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2022,,13056.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2022,,19564.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2022,,6831.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2022,,73613.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2022,,15319.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2022,,28581.0,Holland,Michigan,Holland
+Michigan,"Grand Rapids, Michigan",2022,,40753.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2022,,23026.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2022,,59224.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2022,,9535.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2022,,3878.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2022,,54304.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2022,,52850.0,Dearborn,Michigan,Dearborn
+Michigan,"Battle Creek, Michigan",2022,,24581.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2022,,3337.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2022,,122757.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2022,,1890.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2022,,9282.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2022,,5363.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2022,,59815.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2022,,6156.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2022,,4878.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Detroit Lakes, Minnesota",2022,,3123.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Yazoo City, Mississippi",2022,,2290.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2022,,1022.0,Picayune,Mississippi,Picayune
+Mississippi,"Meridian, Mississippi",2022,,4674.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2022,,2580.0,McComb,Mississippi,McComb
+Mississippi,"Marks, Mississippi",2022,,2904.0,Marks,Mississippi,Marks
+Mississippi,"Laurel, Mississippi",2022,,2054.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2022,,24209.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2022,,956.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2022,,5083.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Greenwood, Mississippi",2022,,9293.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2022,,2542.0,Brookhaven,Mississippi,Brookhaven
+Missouri,"Washington, Missouri",2022,,9210.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2022,,6103.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2022,,293338.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2022,,6558.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2022,,2835.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2022,,17215.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2022,,6870.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2022,,31063.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2022,,110232.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2022,,25190.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2022,,4167.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2022,,17007.0,Hermann,Missouri,Hermann
+Missouri,"Arcadia, Missouri",2022,,876.0,Arcadia,Missouri,Arcadia
+Montana,"Wolf Point, Montana",2022,,2911.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2022,,37597.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2022,,4413.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2022,,5989.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2022,,3610.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2022,,3323.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2022,,6848.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2022,,3012.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2022,,1795.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2022,,9528.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2022,,1219.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2022,,725.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Omaha, Nebraska",2022,,17023.0,Omaha,Nebraska,Omaha
+Nebraska,"McCook, Nebraska",2022,,1840.0,McCook,Nebraska,McCook
+Nebraska,"Lincoln, Nebraska",2022,,8860.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2022,,1014.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2022,,3240.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2022,,3007.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Reno, Nevada",2022,,47136.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2022,,4894.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2022,,45733.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2022,,43299.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2022,,43622.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2022,,2394.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2022,,254694.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2022,,51957.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2022,,495422.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2022,,124197.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2022,,21937.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2022,,225661.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2022,,6133.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2022,,661.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2022,,3051.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy (Santa Fe), New Mexico",2022,,6115.0,Lamy (Santa Fe),New Mexico,Lamy (Santa Fe)
+New Mexico,"Gallup, New Mexico",2022,,9138.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2022,,1085.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2022,,41692.0,Albuquerque,New Mexico,Albuquerque
+New York,"Yonkers, New York",2022,,34717.0,Yonkers,New York,Yonkers
+New York,"Utica, New York",2022,,61180.0,Utica,New York,Utica
+New York,"Syracuse, New York",2022,,124000.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2022,,50041.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2022,,22710.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rome, New York",2022,,8496.0,Rome,New York,Rome
+New York,"Rochester, New York",2022,,119797.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2022,,171567.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2022,,111135.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Niagara Falls, New York",2022,,31689.0,Niagara Falls,New York,Niagara Falls
+New York,"New York City (Penn Station), New York",2022,,8008700.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2022,,92929.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2022,,208302.0,Hudson,New York,Hudson
+New York,"Fort Edward, New York",2022,,6096.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2022,,40834.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2022,,47884.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2022,,96049.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2022,,11900.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2022,,640353.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2022,,46436.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2022,,6267.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2022,,11403.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2022,,17903.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2022,,38092.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2022,,171091.0,Raleigh,North Carolina,Raleigh
+North Carolina,"Kannapolis, North Carolina",2022,,21022.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2022,,27128.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2022,,3798.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2022,,114046.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2022,,1213.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2022,,32332.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2022,,80643.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2022,,196233.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2022,,74995.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2022,,20404.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2022,,14279.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2022,,2080.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2022,,2114.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2022,,16529.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2022,,8181.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2022,,14723.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2022,,2803.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Toledo, Ohio",2022,,45212.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2022,,8400.0,Sandusky,Ohio,Sandusky
+Ohio,"Elyria, Ohio",2022,,6697.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2022,,48887.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2022,,8374.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2022,,4262.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2022,,3132.0,Alliance,Ohio,Alliance
+Oklahoma,"Purcell, Oklahoma",2022,,1337.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2022,,2285.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2022,,42793.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2022,,10622.0,Norman,Oklahoma,Norman
+Oklahoma,"Ardmore, Oklahoma",2022,,4871.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2022,,39701.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2022,,375071.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2022,,11685.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2022,,20627.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2022,,70980.0,Eugene,Oregon,Eugene
+Oregon,"Chemult, Oregon",2022,,2618.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2022,,26256.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2022,,2371.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2022,,117966.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2022,,3058329.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2022,,17228.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2022,,105375.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"North Philadelphia, Pennsylvania",2022,,1323.0,North Philadelphia,Pennsylvania,North Philadelphia
+Pennsylvania,"Mount Joy, Pennsylvania",2022,,18187.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2022,,38263.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2022,,8287.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2022,,2706.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2022,,305698.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2022,,15009.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2022,,4318.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2022,,258937.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2022,,8367.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2022,,66931.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2022,,13389.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2022,,39359.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2022,,32653.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2022,,1342.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2022,,3337.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2022,,9129.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2022,,38570.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2022,,15142.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2022,,41293.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2022,,569195.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2022,,146288.0,Kingston,Rhode Island,Kingston
+South Carolina,"Yemassee, South Carolina",2022,,5006.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2022,,2699.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2022,,5310.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2022,,6784.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2022,,22571.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2022,,3996.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2022,,2727.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2022,,25035.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2022,,2868.0,Clemson,South Carolina,Clemson
+South Carolina,"Charleston, South Carolina",2022,,37461.0,Charleston,South Carolina,Charleston
+South Carolina,"Camden, South Carolina",2022,,2733.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2022,,2465.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2022,,38891.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2022,,10116.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2022,,3570.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2022,,198.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2022,,6130.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2022,,45419.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2022,,4859.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2022,,3344.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2022,,5279.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2022,,23412.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2022,,15833.0,Houston,Texas,Houston
+Texas,"Gainesville, Texas",2022,,5084.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2022,,93181.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2022,,11896.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2022,,2328.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2022,,40197.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2022,,2945.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2022,,2251.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2022,,26665.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2022,,3593.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2022,,26821.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2022,,4185.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2022,,1524.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2022,,1579.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2022,,1195.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2022,,12310.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2022,,4423.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2022,,3621.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2022,,10990.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2022,,2014.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2022,,6292.0,Montpelier,Vermont,Montpelier
+Vermont,"Middlebury (Amtrak Station), VT",2022,,1656.0,Middlebury (Amtrak Station),Vermont,Middlebury (Amtrak Station)
+Vermont,"Ferrisburgh-Vergennes, Vermont",2022,,633.0,Ferrisburgh-Vergennes,Vermont,Ferrisburgh-Vergennes
+Vermont,"Essex Junction, Vermont",2022,,17412.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Castleton, Vermont",2022,,3585.0,Castleton,Vermont,Castleton
+Vermont,"Burlington (Union Station), VT",2022,,3737.0,Burlington (Union Station),Vermont,Burlington (Union Station)
+Vermont,"Brattleboro, Vermont",2022,,13850.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2022,,3840.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Woodbridge, Virginia",2022,,18994.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2022,,48083.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2022,,4748.0,Staunton,Virginia,Staunton
+Virginia,"Roanoke, Virginia",2022,,66721.0,Roanoke,Virginia,Roanoke
+Virginia,"Richmond - Staples Mill, Virginia",2022,,303204.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2022,,74794.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2022,,16174.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2022,,33311.0,Petersburg,Virginia,Petersburg
+Virginia,"Norfolk, Virginia",2022,,129791.0,Norfolk,Virginia,Norfolk
+Virginia,"Newport News, Virginia",2022,,70645.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2022,,28823.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2022,,48326.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2022,,269381.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2022,,72354.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Danville, Virginia",2022,,5765.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2022,,13816.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2022,,1475.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2022,,125270.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Burke Centre, Virginia",2022,,12786.0,Burke Centre,Virginia,Burke Centre
+Virginia,"Ashland, Virginia",2022,,21894.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2022,,211971.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2022,,872.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2022,,9002.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2022,,73546.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2022,,23337.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2022,,66689.0,Tacoma,Washington,Tacoma
+Washington,"Stanwood, Washington",2022,,10.0,Stanwood,Washington,Stanwood
+Washington,"Spokane, Washington",2022,,34053.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2022,,384726.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2022,,15038.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2022,,40882.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2022,,22.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2022,,6624.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2022,,19711.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2022,,11914.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2022,,2441.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2022,,4223.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2022,,16339.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2022,,2191.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2022,,129.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2022,,4293.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2022,,382.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2022,,1555.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2022,,340.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2022,,8148.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2022,,3102.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2022,,2572.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2022,,6539.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston*, West Virginia",2022,,6641.0,Charleston*,West Virginia,Charleston*
+West Virginia,"Alderson, West Virginia",2022,,315.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2022,,10505.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2022,,8351.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2022,,36289.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2022,,4810.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2022,,379535.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2022,,84621.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2022,,16399.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2022,,8460.0,Columbus,Wisconsin,Columbus

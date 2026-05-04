@@ -1,0 +1,511 @@
+state,station,fiscal_year,note,value,station_name,group,subgroup
+Alabama,"Tuscaloosa, Alabama",2010,,12533.0,Tuscaloosa,Alabama,Tuscaloosa
+Alabama,"Birmingham, Alabama",2010,,45089.0,Birmingham,Alabama,Birmingham
+Alabama,"Anniston, Alabama",2010,,5955.0,Anniston,Alabama,Anniston
+Arizona,"Yuma, Arizona",2010,,3676.0,Yuma,Arizona,Yuma
+Arizona,"Winslow, Arizona",2010,,5274.0,Winslow,Arizona,Winslow
+Arizona,"Williams Junction, Arizona",2010,,7642.0,Williams Junction,Arizona,Williams Junction
+Arizona,"Tucson, Arizona",2010,,21095.0,Tucson,Arizona,Tucson
+Arizona,"Maricopa, Arizona",2010,,8764.0,Maricopa,Arizona,Maricopa
+Arizona,"Kingman, Arizona",2010,,10160.0,Kingman,Arizona,Kingman
+Arizona,"Flagstaff, Arizona",2010,,41775.0,Flagstaff,Arizona,Flagstaff
+Arizona,"Benson, Arizona",2010,,1091.0,Benson,Arizona,Benson
+Arkansas,"Walnut Ridge, Arkansas",2010,,4565.0,Walnut Ridge,Arkansas,Walnut Ridge
+Arkansas,"Texarkana, Arkansas",2010,,7867.0,Texarkana,Arkansas,Texarkana
+Arkansas,"Malvern, Arkansas",2010,,1833.0,Malvern,Arkansas,Malvern
+Arkansas,"Little Rock, Arkansas",2010,,22218.0,Little Rock,Arkansas,Little Rock
+Arkansas,"Arkadelphia, Arkansas",2010,,1486.0,Arkadelphia,Arkansas,Arkadelphia
+California,"Wasco, California",2010,,18044.0,Wasco,California,Wasco
+California,"Victorville, California",2010,,5558.0,Victorville,California,Victorville
+California,"Ventura, California",2010,,45385.0,Ventura,California,Ventura
+California,"Van Nuys, California",2010,,70551.0,Van Nuys,California,Van Nuys
+California,"Turlock-Denair, California",2010,,21668.0,Turlock-Denair,California,Turlock-Denair
+California,"Truckee, California",2010,,9139.0,Truckee,California,Truckee
+California,"Suisun-Fairfield, California",2010,,171381.0,Suisun-Fairfield,California,Suisun-Fairfield
+California,"Stockton (San Joaquin St.), California",2010,,238868.0,Stockton (San Joaquin St.),California,Stockton (San Joaquin St.)
+California,"Stockton (Downtown), California",2010,,34188.0,Stockton (Downtown),California,Stockton (Downtown)
+California,"Solana Beach, California",2010,,408060.0,Solana Beach,California,Solana Beach
+California,"Simi Valley, California",2010,,38946.0,Simi Valley,California,Simi Valley
+California,"Santa Barbara, California",2010,,295079.0,Santa Barbara,California,Santa Barbara
+California,"Santa Ana, California",2010,,152733.0,Santa Ana,California,Santa Ana
+California,"San Luis Obispo, California",2010,,99778.0,San Luis Obispo,California,San Luis Obispo
+California,"San Juan Capistrano, California",2010,,223580.0,San Juan Capistrano,California,San Juan Capistrano
+California,"San Jose, California",2010,,202512.0,San Jose,California,San Jose
+California,"San Diego, California",2010,,715043.0,San Diego,California,San Diego
+California,"San Diego-Old Town, California",2010,,21616.0,San Diego-Old Town,California,San Diego-Old Town
+California,"San Clemente Pier, California",2010,,9990.0,San Clemente Pier,California,San Clemente Pier
+California,"San Bernardino, California",2010,,10080.0,San Bernardino,California,San Bernardino
+California,"Salinas, California",2010,,18935.0,Salinas,California,Salinas
+California,"Sacramento, California",2010,,1107220.0,Sacramento,California,Sacramento
+California,"Roseville, California",2010,,67796.0,Roseville,California,Roseville
+California,"Rocklin, California",2010,,34263.0,Rocklin,California,Rocklin
+California,"Richmond, California",2010,,271486.0,Richmond,California,Richmond
+California,"Redding, California",2010,,10322.0,Redding,California,Redding
+California,"Pomona, California",2010,,1523.0,Pomona,California,Pomona
+California,"Paso Robles, California",2010,,10372.0,Paso Robles,California,Paso Robles
+California,"Palm Springs, California",2010,,6061.0,Palm Springs,California,Palm Springs
+California,"Oxnard, California",2010,,74468.0,Oxnard,California,Oxnard
+California,"Ontario, California",2010,,4756.0,Ontario,California,Ontario
+California,"Oceanside, California",2010,,293012.0,Oceanside,California,Oceanside
+California,"Oakland, California",2010,,355128.0,Oakland,California,Oakland
+California,"Oakland Coliseum, California",2010,,20785.0,Oakland Coliseum,California,Oakland Coliseum
+California,"Needles, California",2010,,9481.0,Needles,California,Needles
+California,"Moreno Valley, California",2010,,10806.0,Moreno Valley,California,Moreno Valley
+California,"Moorpark, California",2010,,12293.0,Moorpark,California,Moorpark
+California,"Modesto, California",2010,,96662.0,Modesto,California,Modesto
+California,"Metrolink Station Orange, California 92866",2010,,2439.0,Metrolink Station Orange,California,Metrolink Station Orange
+California,"Merced, California",2010,,103505.0,Merced,California,Merced
+California,"Martinez, California",2010,,410968.0,Martinez,California,Martinez
+California,"Madera, California",2010,,20031.0,Madera,California,Madera
+California,"Los Angeles, California",2010,,1517342.0,Los Angeles,California,Los Angeles
+California,"Lompoc-Surf, California",2010,,6422.0,Lompoc-Surf,California,Lompoc-Surf
+California,"Lodi, California",2010,,7443.0,Lodi,California,Lodi
+California,"Laguna Niguel, California",2010,,2644.0,Laguna Niguel,California,Laguna Niguel
+California,"Irvine, California",2010,,630190.0,Irvine,California,Irvine
+California,"Hayward, California",2010,,29984.0,Hayward,California,Hayward
+California,"Hanford, California",2010,,187865.0,Hanford,California,Hanford
+California,"Guadalupe-Santa Maria, California",2010,,10018.0,Guadalupe-Santa Maria,California,Guadalupe-Santa Maria
+California,"Grover Beach, California",2010,,17944.0,Grover Beach,California,Grover Beach
+California,"Great America (Santa Clara), California",2010,,104041.0,Great America (Santa Clara),California,Great America (Santa Clara)
+California,"Goleta, California",2010,,59911.0,Goleta,California,Goleta
+California,"Glendale, California",2010,,37117.0,Glendale,California,Glendale
+California,"Fullerton, California",2010,,411489.0,Fullerton,California,Fullerton
+California,"Fresno, California",2010,,352737.0,Fresno,California,Fresno
+California,"Fremont, California",2010,,39162.0,Fremont,California,Fremont
+California,"Emeryville, California",2010,,529965.0,Emeryville,California,Emeryville
+California,"Dunsmuir, California",2010,,4879.0,Dunsmuir,California,Dunsmuir
+California,"Davis, California",2010,,409611.0,Davis,California,Davis
+California,"Corcoran, California",2010,,27375.0,Corcoran,California,Corcoran
+California,"Colfax, California",2010,,4322.0,Colfax,California,Colfax
+California,"Chico, California",2010,,10067.0,Chico,California,Chico
+California,"Chatsworth, California",2010,,49178.0,Chatsworth,California,Chatsworth
+California,"Carpinteria, California",2010,,20149.0,Carpinteria,California,Carpinteria
+California,"Camarillo, California",2010,,33165.0,Camarillo,California,Camarillo
+California,"Burbank, California",2010,,41997.0,Burbank,California,Burbank
+California,"Berkeley, California",2010,,133152.0,Berkeley,California,Berkeley
+California,"Barstow, California",2010,,3609.0,Barstow,California,Barstow
+California,"Bakersfield, California",2010,,413172.0,Bakersfield,California,Bakersfield
+California,"Auburn, California",2010,,31092.0,Auburn,California,Auburn
+California,"Antioch-Pittsburg, California",2010,,34417.0,Antioch-Pittsburg,California,Antioch-Pittsburg
+California,"Anaheim, California",2010,,331666.0,Anaheim,California,Anaheim
+Colorado,"Winter Park-Fraser, Colorado",2010,,7913.0,Winter Park-Fraser,Colorado,Winter Park-Fraser
+Colorado,"Trinidad, Colorado",2010,,4102.0,Trinidad,Colorado,Trinidad
+Colorado,"Lamar, Colorado",2010,,1897.0,Lamar,Colorado,Lamar
+Colorado,"La Junta, Colorado",2010,,7264.0,La Junta,Colorado,La Junta
+Colorado,"Grand Junction, Colorado",2010,,28835.0,Grand Junction,Colorado,Grand Junction
+Colorado,"Granby, Colorado",2010,,3655.0,Granby,Colorado,Granby
+Colorado,"Glenwood Springs, Colorado",2010,,34227.0,Glenwood Springs,Colorado,Glenwood Springs
+Colorado,"Fort Morgan, Colorado",2010,,3349.0,Fort Morgan,Colorado,Fort Morgan
+Colorado,"Denver, Colorado",2010,,128410.0,Denver,Colorado,Denver
+Connecticut,"Windsor, Connecticut",2010,,10219.0,Windsor,Connecticut,Windsor
+Connecticut,"Windsor Locks, Connecticut",2010,,15812.0,Windsor Locks,Connecticut,Windsor Locks
+Connecticut,"Wallingford, Connecticut",2010,,15190.0,Wallingford,Connecticut,Wallingford
+Connecticut,"Stamford, Connecticut",2010,,355232.0,Stamford,Connecticut,Stamford
+Connecticut,"Old Saybrook, Connecticut",2010,,63929.0,Old Saybrook,Connecticut,Old Saybrook
+Connecticut,"New London, Connecticut",2010,,162396.0,New London,Connecticut,New London
+Connecticut,"New Haven, Connecticut",2010,,723287.0,New Haven,Connecticut,New Haven
+Connecticut,"Mystic, Connecticut",2010,,20787.0,Mystic,Connecticut,Mystic
+Connecticut,"Meriden, Connecticut",2010,,35904.0,Meriden,Connecticut,Meriden
+Connecticut,"Hartford, Connecticut",2010,,170060.0,Hartford,Connecticut,Hartford
+Connecticut,"Bridgeport, Connecticut",2010,,72809.0,Bridgeport,Connecticut,Bridgeport
+Connecticut,"Berlin, Connecticut",2010,,23196.0,Berlin,Connecticut,Berlin
+Delaware,"Wilmington, Delaware",2010,,696979.0,Wilmington,Delaware,Wilmington
+Delaware,"Newark, Delaware",2010,,9300.0,Newark,Delaware,Newark
+District of Columbia,"Washington Union Station, District of Columbia",2010,,4572878.0,Washington Union Station,District of Columbia,Washington Union Station
+Florida,"Winter Park, Florida",2010,,31962.0,Winter Park,Florida,Winter Park
+Florida,"Winter Haven, Florida",2010,,22992.0,Winter Haven,Florida,Winter Haven
+Florida,"West Palm Beach, Florida",2010,,62233.0,West Palm Beach,Florida,West Palm Beach
+Florida,"Tampa, Florida",2010,,131054.0,Tampa,Florida,Tampa
+Florida,"Sebring, Florida",2010,,18951.0,Sebring,Florida,Sebring
+Florida,"Sanford (Auto Train Station), Florida",2010,,244252.0,Sanford (Auto Train Station),Florida,Sanford (Auto Train Station)
+Florida,"Palatka, Florida",2010,,13323.0,Palatka,Florida,Palatka
+Florida,"Orlando, Florida",2010,,159533.0,Orlando,Florida,Orlando
+Florida,"Okeechobee, Florida",2010,,3536.0,Okeechobee,Florida,Okeechobee
+Florida,"Miami, Florida",2010,,90561.0,Miami,Florida,Miami
+Florida,"Lakeland, Florida",2010,,24220.0,Lakeland,Florida,Lakeland
+Florida,"Kissimmee, Florida",2010,,43163.0,Kissimmee,Florida,Kissimmee
+Florida,"Jacksonville, Florida",2010,,70728.0,Jacksonville,Florida,Jacksonville
+Florida,"Hollywood, Florida",2010,,37967.0,Hollywood,Florida,Hollywood
+Florida,"Fort Lauderdale, Florida",2010,,54434.0,Fort Lauderdale,Florida,Fort Lauderdale
+Florida,"Delray Beach, Florida",2010,,11626.0,Delray Beach,Florida,Delray Beach
+Florida,"Deland, Florida",2010,,25982.0,Deland,Florida,Deland
+Florida,"Deerfield Beach, Florida",2010,,29955.0,Deerfield Beach,Florida,Deerfield Beach
+Georgia,"Toccoa, Georgia",2010,,3497.0,Toccoa,Georgia,Toccoa
+Georgia,"Savannah, Georgia",2010,,65656.0,Savannah,Georgia,Savannah
+Georgia,"Jesup, Georgia",2010,,9106.0,Jesup,Georgia,Jesup
+Georgia,"Gainesville, Georgia",2010,,5187.0,Gainesville,Georgia,Gainesville
+Georgia,"Atlanta, Georgia",2010,,112364.0,Atlanta,Georgia,Atlanta
+Idaho,"Sandpoint, Idaho",2010,,5606.0,Sandpoint,Idaho,Sandpoint
+Illinois,"Summit, Illinois",2010,,7912.0,Summit,Illinois,Summit
+Illinois,"Springfield, Illinois",2010,,190172.0,Springfield,Illinois,Springfield
+Illinois,"Rantoul, Illinois",2010,,4085.0,Rantoul,Illinois,Rantoul
+Illinois,"Quincy, Illinois",2010,,46279.0,Quincy,Illinois,Quincy
+Illinois,"Princeton, Illinois",2010,,31644.0,Princeton,Illinois,Princeton
+Illinois,"Pontiac, Illinois",2010,,15478.0,Pontiac,Illinois,Pontiac
+Illinois,"Plano, Illinois",2010,,5481.0,Plano,Illinois,Plano
+Illinois,"Naperville, Illinois",2010,,50733.0,Naperville,Illinois,Naperville
+Illinois,"Mendota, Illinois",2010,,21082.0,Mendota,Illinois,Mendota
+Illinois,"Mattoon, Illinois",2010,,32818.0,Mattoon,Illinois,Mattoon
+Illinois,"Macomb, Illinois",2010,,72717.0,Macomb,Illinois,Macomb
+Illinois,"Lincoln, Illinois",2010,,23723.0,Lincoln,Illinois,Lincoln
+Illinois,"La Grange Road, Illinois",2010,,14252.0,La Grange Road,Illinois,La Grange Road
+Illinois,"Kewanee, Illinois",2010,,13635.0,Kewanee,Illinois,Kewanee
+Illinois,"Kankakee, Illinois",2010,,17519.0,Kankakee,Illinois,Kankakee
+Illinois,"Joliet, Illinois",2010,,53322.0,Joliet,Illinois,Joliet
+Illinois,"Homewood, Illinois",2010,,34233.0,Homewood,Illinois,Homewood
+Illinois,"Glenview, Illinois",2010,,66629.0,Glenview,Illinois,Glenview
+Illinois,"Gilman, Illinois",2010,,2172.0,Gilman,Illinois,Gilman
+Illinois,"Galesburg, Illinois",2010,,102851.0,Galesburg,Illinois,Galesburg
+Illinois,"Effingham, Illinois",2010,,22394.0,Effingham,Illinois,Effingham
+Illinois,"Dwight, Illinois",2010,,9911.0,Dwight,Illinois,Dwight
+Illinois,"Du Quoin, Illinois",2010,,9250.0,Du Quoin,Illinois,Du Quoin
+Illinois,"Chicago, Illinois",2010,,3288054.0,Chicago,Illinois,Chicago
+Illinois,"Champaign-Urbana, Illinois",2010,,142406.0,Champaign-Urbana,Illinois,Champaign-Urbana
+Illinois,"Centralia, Illinois",2010,,22009.0,Centralia,Illinois,Centralia
+Illinois,"Carlinville, Illinois",2010,,11364.0,Carlinville,Illinois,Carlinville
+Illinois,"Carbondale, Illinois",2010,,116094.0,Carbondale,Illinois,Carbondale
+Illinois,"Bloomington/Normal, Illinois",2010,,209629.0,Bloomington/Normal,Illinois,Bloomington/Normal
+Illinois,"Alton, Illinois",2010,,64674.0,Alton,Illinois,Alton
+Indiana,"Waterloo, Indiana",2010,,21372.0,Waterloo,Indiana,Waterloo
+Indiana,"South Bend, Indiana",2010,,21063.0,South Bend,Indiana,South Bend
+Indiana,"Michigan City, Indiana",2010,,3395.0,Michigan City,Indiana,Michigan City
+Indiana,"Lafayette, Indiana",2010,,25805.0,Lafayette,Indiana,Lafayette
+Indiana,"Indianapolis, Indiana",2010,,32125.0,Indianapolis,Indiana,Indianapolis
+Indiana,"Hammond-Whiting, Indiana",2010,,6638.0,Hammond-Whiting,Indiana,Hammond-Whiting
+Indiana,"Elkhart, Indiana",2010,,16080.0,Elkhart,Indiana,Elkhart
+Indiana,"Dyer, Indiana",2010,,2257.0,Dyer,Indiana,Dyer
+Indiana,"Crawfordsville (Bus), Indiana",2010,,5488.0,Crawfordsville (Bus),Indiana,Crawfordsville (Bus)
+Indiana,"Connellsville, Indiana",2010,,659.0,Connellsville,Indiana,Connellsville
+Indiana,"Albany/Rensselaer, Indiana",2010,,1848.0,Albany/Rensselaer,Indiana,Albany/Rensselaer
+Iowa,"Ottumwa, Iowa",2010,,12383.0,Ottumwa,Iowa,Ottumwa
+Iowa,"Osceola, Iowa",2010,,19095.0,Osceola,Iowa,Osceola
+Iowa,"Mt. Pleasant, Iowa",2010,,16063.0,Mt. Pleasant,Iowa,Mt. Pleasant
+Iowa,"Fort Madison, Iowa",2010,,7656.0,Fort Madison,Iowa,Fort Madison
+Iowa,"Creston, Iowa",2010,,4803.0,Creston,Iowa,Creston
+Iowa,"Burlington, Iowa",2010,,8744.0,Burlington,Iowa,Burlington
+Kansas,"Topeka, Kansas",2010,,8618.0,Topeka,Kansas,Topeka
+Kansas,"Newton, Kansas",2010,,13926.0,Newton,Kansas,Newton
+Kansas,"Lawrence, Kansas",2010,,5096.0,Lawrence,Kansas,Lawrence
+Kansas,"Hutchinson, Kansas",2010,,4519.0,Hutchinson,Kansas,Hutchinson
+Kansas,"Garden City, Kansas",2010,,7075.0,Garden City,Kansas,Garden City
+Kansas,"Dodge City, Kansas",2010,,4847.0,Dodge City,Kansas,Dodge City
+Kentucky,"South Shore-South Portsmouth, Kentucky",2010,,1019.0,South Shore-South Portsmouth,Kentucky,South Shore-South Portsmouth
+Kentucky,"Maysville, Kentucky",2010,,1933.0,Maysville,Kentucky,Maysville
+Kentucky,"Fulton, Kentucky",2010,,3578.0,Fulton,Kentucky,Fulton
+Kentucky,"Ashland, Kentucky",2010,,2771.0,Ashland,Kentucky,Ashland
+Louisiana,"Slidell, Louisiana",2010,,7369.0,Slidell,Louisiana,Slidell
+Louisiana,"Schriever, Louisiana",2010,,1292.0,Schriever,Louisiana,Schriever
+Louisiana,"New Orleans, Louisiana",2010,,200249.0,New Orleans,Louisiana,New Orleans
+Louisiana,"New Iberia, Louisiana",2010,,1250.0,New Iberia,Louisiana,New Iberia
+Louisiana,"Lake Charles, Louisiana",2010,,2909.0,Lake Charles,Louisiana,Lake Charles
+Louisiana,"Lafayette, Louisiana",2010,,6122.0,Lafayette,Louisiana,Lafayette
+Louisiana,"Hammond, Louisiana",2010,,14404.0,Hammond,Louisiana,Hammond
+Maine,"Wells, Maine",2010,,48473.0,Wells,Maine,Wells
+Maine,"Saco-Biddeford, Maine",2010,,40922.0,Saco-Biddeford,Maine,Saco-Biddeford
+Maine,"Portland, Maine",2010,,180465.0,Portland,Maine,Portland
+Maine,"Old Orchard Beach, Maine",2010,,14182.0,Old Orchard Beach,Maine,Old Orchard Beach
+Maryland,"Rockville, Maryland",2010,,3798.0,Rockville,Maryland,Rockville
+Maryland,"New Carrollton, Maryland",2010,,170848.0,New Carrollton,Maryland,New Carrollton
+Maryland,"Cumberland, Maryland",2010,,12492.0,Cumberland,Maryland,Cumberland
+Maryland,"BWI Thurgood Marshall Airport, Maryland",2010,,654151.0,BWI Thurgood Marshall Airport,Maryland,BWI Thurgood Marshall Airport
+Maryland,"Baltimore, Maryland",2010,,926245.0,Baltimore,Maryland,Baltimore
+Maryland,"Aberdeen, Maryland",2010,,41114.0,Aberdeen,Maryland,Aberdeen
+Massachusetts,"Worcester, Massachusetts",2010,,7398.0,Worcester,Massachusetts,Worcester
+Massachusetts,"Woburn, Massachusetts",2010,,15290.0,Woburn,Massachusetts,Woburn
+Massachusetts,"Springfield, Massachusetts",2010,,130790.0,Springfield,Massachusetts,Springfield
+Massachusetts,"Route 128 (Boston), Massachusetts",2010,,394674.0,Route 128 (Boston),Massachusetts,Route 128 (Boston)
+Massachusetts,"Pittsfield, Massachusetts",2010,,7979.0,Pittsfield,Massachusetts,Pittsfield
+Massachusetts,"Haverhill, Massachusetts",2010,,36460.0,Haverhill,Massachusetts,Haverhill
+Massachusetts,"Framingham, Massachusetts",2010,,2131.0,Framingham,Massachusetts,Framingham
+Massachusetts,"Boston-South Station, Massachusetts",2010,,1311205.0,Boston-South Station,Massachusetts,Boston-South Station
+Massachusetts,"Boston-North Station, Massachusetts",2010,,418993.0,Boston-North Station,Massachusetts,Boston-North Station
+Massachusetts,"Boston-Back Bay, Massachusetts",2010,,445074.0,Boston-Back Bay,Massachusetts,Boston-Back Bay
+Massachusetts,"Amherst, Massachusetts",2010,,14600.0,Amherst,Massachusetts,Amherst
+Michigan,"St. Joseph/Benton Harbor, Michigan",2010,,9999.0,St. Joseph/Benton Harbor,Michigan,St. Joseph/Benton Harbor
+Michigan,"Royal Oak, Michigan",2010,,34306.0,Royal Oak,Michigan,Royal Oak
+Michigan,"Port Huron, Michigan",2010,,17580.0,Port Huron,Michigan,Port Huron
+Michigan,"Pontiac, Michigan",2010,,15981.0,Pontiac,Michigan,Pontiac
+Michigan,"Niles, Michigan",2010,,18488.0,Niles,Michigan,Niles
+Michigan,"New Buffalo, Michigan",2010,,9967.0,New Buffalo,Michigan,New Buffalo
+Michigan,"Lapeer, Michigan",2010,,8152.0,Lapeer,Michigan,Lapeer
+Michigan,"Kalamazoo, Michigan",2010,,113061.0,Kalamazoo,Michigan,Kalamazoo
+Michigan,"Jackson, Michigan",2010,,28506.0,Jackson,Michigan,Jackson
+Michigan,"Holland, Michigan",2010,,37273.0,Holland,Michigan,Holland
+Michigan,"Grand Rapids, Michigan",2010,,52273.0,Grand Rapids,Michigan,Grand Rapids
+Michigan,"Flint, Michigan",2010,,30261.0,Flint,Michigan,Flint
+Michigan,"East Lansing, Michigan",2010,,59812.0,East Lansing,Michigan,East Lansing
+Michigan,"Durand, Michigan",2010,,10198.0,Durand,Michigan,Durand
+Michigan,"Dowagiac, Michigan",2010,,3169.0,Dowagiac,Michigan,Dowagiac
+Michigan,"Detroit, Michigan",2010,,67971.0,Detroit,Michigan,Detroit
+Michigan,"Dearborn, Michigan",2010,,80502.0,Dearborn,Michigan,Dearborn
+Michigan,"Birmingham, Michigan",2010,,22286.0,Birmingham,Michigan,Birmingham
+Michigan,"Battle Creek, Michigan",2010,,52057.0,Battle Creek,Michigan,Battle Creek
+Michigan,"Bangor, Michigan",2010,,3803.0,Bangor,Michigan,Bangor
+Michigan,"Ann Arbor, Michigan",2010,,140735.0,Ann Arbor,Michigan,Ann Arbor
+Michigan,"Albion, Michigan",2010,,1636.0,Albion,Michigan,Albion
+Minnesota,"Winona, Minnesota",2010,,27124.0,Winona,Minnesota,Winona
+Minnesota,"Staples, Minnesota",2010,,5157.0,Staples,Minnesota,Staples
+Minnesota,"St. Paul-Minneapolis, Minnesota",2010,,128658.0,St. Paul-Minneapolis,Minnesota,St. Paul-Minneapolis
+Minnesota,"St. Cloud, Minnesota",2010,,12459.0,St. Cloud,Minnesota,St. Cloud
+Minnesota,"Red Wing, Minnesota",2010,,10691.0,Red Wing,Minnesota,Red Wing
+Minnesota,"Detroit Lakes, Minnesota",2010,,4792.0,Detroit Lakes,Minnesota,Detroit Lakes
+Mississippi,"Yazoo City, Mississippi",2010,,3869.0,Yazoo City,Mississippi,Yazoo City
+Mississippi,"Picayune, Mississippi",2010,,2858.0,Picayune,Mississippi,Picayune
+Mississippi,"Meridian, Mississippi",2010,,13923.0,Meridian,Mississippi,Meridian
+Mississippi,"McComb, Mississippi",2010,,7586.0,McComb,Mississippi,McComb
+Mississippi,"Laurel, Mississippi",2010,,5647.0,Laurel,Mississippi,Laurel
+Mississippi,"Jackson, Mississippi",2010,,52307.0,Jackson,Mississippi,Jackson
+Mississippi,"Hazlehurst, Mississippi",2010,,2635.0,Hazlehurst,Mississippi,Hazlehurst
+Mississippi,"Hattiesburg, Mississippi",2010,,11868.0,Hattiesburg,Mississippi,Hattiesburg
+Mississippi,"Greenwood, Mississippi",2010,,16455.0,Greenwood,Mississippi,Greenwood
+Mississippi,"Brookhaven, Mississippi",2010,,5241.0,Brookhaven,Mississippi,Brookhaven
+Missouri,"Washington, Missouri",2010,,13211.0,Washington,Missouri,Washington
+Missouri,"Warrensburg, Missouri",2010,,13402.0,Warrensburg,Missouri,Warrensburg
+Missouri,"St. Louis, Missouri",2010,,321629.0,St. Louis,Missouri,St. Louis
+Missouri,"Sedalia, Missouri",2010,,11136.0,Sedalia,Missouri,Sedalia
+Missouri,"Poplar Bluff, Missouri",2010,,4688.0,Poplar Bluff,Missouri,Poplar Bluff
+Missouri,"Lee’s Summit, Missouri",2010,,26139.0,Lee’s Summit,Missouri,Lee’s Summit
+Missouri,"La Plata, Missouri",2010,,10990.0,La Plata,Missouri,La Plata
+Missouri,"Kirkwood, Missouri",2010,,48314.0,Kirkwood,Missouri,Kirkwood
+Missouri,"Kansas City, Missouri",2010,,142769.0,Kansas City,Missouri,Kansas City
+Missouri,"Jefferson City, Missouri",2010,,49371.0,Jefferson City,Missouri,Jefferson City
+Missouri,"Independence, Missouri",2010,,9128.0,Independence,Missouri,Independence
+Missouri,"Hermann, Missouri",2010,,12615.0,Hermann,Missouri,Hermann
+Montana,"Wolf Point, Montana",2010,,6970.0,Wolf Point,Montana,Wolf Point
+Montana,"Whitefish, Montana",2010,,66813.0,Whitefish,Montana,Whitefish
+Montana,"West Glacier, Montana",2010,,7895.0,West Glacier,Montana,West Glacier
+Montana,"Shelby, Montana",2010,,16534.0,Shelby,Montana,Shelby
+Montana,"Malta, Montana",2010,,3372.0,Malta,Montana,Malta
+Montana,"Libby, Montana",2010,,5342.0,Libby,Montana,Libby
+Montana,"Havre, Montana",2010,,16077.0,Havre,Montana,Havre
+Montana,"Glasgow, Montana",2010,,6075.0,Glasgow,Montana,Glasgow
+Montana,"Essex, Montana",2010,,4746.0,Essex,Montana,Essex
+Montana,"East Glacier (summer only), Montana",2010,,17652.0,East Glacier (summer only),Montana,East Glacier (summer only)
+Montana,"Cut Bank, Montana",2010,,3363.0,Cut Bank,Montana,Cut Bank
+Montana,"Browning (winter only), Montana",2010,,1884.0,Browning (winter only),Montana,Browning (winter only)
+Nebraska,"Omaha, Nebraska",2010,,23212.0,Omaha,Nebraska,Omaha
+Nebraska,"McCook, Nebraska",2010,,3218.0,McCook,Nebraska,McCook
+Nebraska,"Lincoln, Nebraska",2010,,11779.0,Lincoln,Nebraska,Lincoln
+Nebraska,"Holdrege, Nebraska",2010,,1963.0,Holdrege,Nebraska,Holdrege
+Nebraska,"Hastings, Nebraska",2010,,4765.0,Hastings,Nebraska,Hastings
+Nevada,"Winnemucca, Nevada",2010,,3558.0,Winnemucca,Nevada,Winnemucca
+Nevada,"Sparks, Nevada (Train Stop)",2010,,0.0,Sparks,Nevada,Sparks
+Nevada,"Reno, Nevada",2010,,69236.0,Reno,Nevada,Reno
+Nevada,"Elko, Nevada",2010,,6835.0,Elko,Nevada,Elko
+New Hampshire,"Exeter, New Hampshire",2010,,90123.0,Exeter,New Hampshire,Exeter
+New Hampshire,"Durham-UNH, New Hampshire",2010,,54777.0,Durham-UNH,New Hampshire,Durham-UNH
+New Hampshire,"Dover, New Hampshire",2010,,57241.0,Dover,New Hampshire,Dover
+New Hampshire,"Claremont, New Hampshire",2010,,1967.0,Claremont,New Hampshire,Claremont
+New Jersey,"Trenton, New Jersey",2010,,420533.0,Trenton,New Jersey,Trenton
+New Jersey,"Princeton Junction, New Jersey",2010,,40692.0,Princeton Junction,New Jersey,Princeton Junction
+New Jersey,"Newark, New Jersey",2010,,658089.0,Newark,New Jersey,Newark
+New Jersey,"Newark Airport, New Jersey",2010,,116526.0,Newark Airport,New Jersey,Newark Airport
+New Jersey,"New Brunswick, New Jersey",2010,,6609.0,New Brunswick,New Jersey,New Brunswick
+New Jersey,"Metropark, New Jersey",2010,,388371.0,Metropark,New Jersey,Metropark
+New Mexico,"Raton, New Mexico",2010,,18025.0,Raton,New Mexico,Raton
+New Mexico,"Lordsburg, New Mexico",2010,,472.0,Lordsburg,New Mexico,Lordsburg
+New Mexico,"Las Vegas, New Mexico",2010,,4491.0,Las Vegas,New Mexico,Las Vegas
+New Mexico,"Lamy, New Mexico",2010,,13056.0,Lamy,New Mexico,Lamy
+New Mexico,"Gallup, New Mexico",2010,,13431.0,Gallup,New Mexico,Gallup
+New Mexico,"Deming, New Mexico",2010,,869.0,Deming,New Mexico,Deming
+New Mexico,"Albuquerque, New Mexico",2010,,71848.0,Albuquerque,New Mexico,Albuquerque
+New York,"Yonkers, New York",2010,,20433.0,Yonkers,New York,Yonkers
+New York,"Whitehall, New York",2010,,1739.0,Whitehall,New York,Whitehall
+New York,"Westport, New York",2010,,5230.0,Westport,New York,Westport
+New York,"Utica, New York",2010,,61108.0,Utica,New York,Utica
+New York,"Ticonderoga, New York",2010,,1703.0,Ticonderoga,New York,Ticonderoga
+New York,"Syracuse, New York",2010,,139175.0,Syracuse,New York,Syracuse
+New York,"Schenectady, New York",2010,,56125.0,Schenectady,New York,Schenectady
+New York,"Saratoga Springs, New York",2010,,30261.0,Saratoga Springs,New York,Saratoga Springs
+New York,"Rouses Point, New York",2010,,1287.0,Rouses Point,New York,Rouses Point
+New York,"Rome, New York",2010,,9100.0,Rome,New York,Rome
+New York,"Rochester, New York",2010,,128935.0,Rochester,New York,Rochester
+New York,"Rhinecliff, New York",2010,,158534.0,Rhinecliff,New York,Rhinecliff
+New York,"Poughkeepsie, New York",2010,,75775.0,Poughkeepsie,New York,Poughkeepsie
+New York,"Port Kent, New York",2010,,909.0,Port Kent,New York,Port Kent
+New York,"Port Henry, New York",2010,,1764.0,Port Henry,New York,Port Henry
+New York,"Plattsburgh, New York",2010,,11863.0,Plattsburgh,New York,Plattsburgh
+New York,"Niagara Falls, New York",2010,,27270.0,Niagara Falls,New York,Niagara Falls
+New York,"New York City (Penn Station), New York",2010,,8377944.0,New York City (Penn Station),New York,New York City (Penn Station)
+New York,"New Rochelle, New York",2010,,78876.0,New Rochelle,New York,New Rochelle
+New York,"Hudson, New York",2010,,150197.0,Hudson,New York,Hudson
+New York,"Fort Edward, New York",2010,,8504.0,Fort Edward,New York,Fort Edward
+New York,"Croton-Harmon, New York",2010,,41570.0,Croton-Harmon,New York,Croton-Harmon
+New York,"Buffalo-Exchange Street, New York",2010,,30171.0,Buffalo-Exchange Street,New York,Buffalo-Exchange Street
+New York,"Buffalo-Depew, New York",2010,,111513.0,Buffalo-Depew,New York,Buffalo-Depew
+New York,"Amsterdam, New York",2010,,9174.0,Amsterdam,New York,Amsterdam
+New York,"Albany-Rensselaer, New York",2010,,737259.0,Albany-Rensselaer,New York,Albany-Rensselaer
+North Carolina,"Wilson, North Carolina",2010,,44054.0,Wilson,North Carolina,Wilson
+North Carolina,"Southern Pines, North Carolina",2010,,6392.0,Southern Pines,North Carolina,Southern Pines
+North Carolina,"Selma-Smithfield, North Carolina",2010,,12256.0,Selma-Smithfield,North Carolina,Selma-Smithfield
+North Carolina,"Salisbury, North Carolina",2010,,27182.0,Salisbury,North Carolina,Salisbury
+North Carolina,"Rocky Mount, North Carolina",2010,,52959.0,Rocky Mount,North Carolina,Rocky Mount
+North Carolina,"Raleigh, North Carolina",2010,,164745.0,Raleigh,North Carolina,Raleigh
+North Carolina,"Kannapolis, North Carolina",2010,,14579.0,Kannapolis,North Carolina,Kannapolis
+North Carolina,"High Point, North Carolina",2010,,30972.0,High Point,North Carolina,High Point
+North Carolina,"Hamlet, North Carolina",2010,,4996.0,Hamlet,North Carolina,Hamlet
+North Carolina,"Greensboro, North Carolina",2010,,105671.0,Greensboro,North Carolina,Greensboro
+North Carolina,"Gastonia, North Carolina",2010,,1622.0,Gastonia,North Carolina,Gastonia
+North Carolina,"Fayetteville, North Carolina",2010,,51947.0,Fayetteville,North Carolina,Fayetteville
+North Carolina,"Durham, North Carolina",2010,,65192.0,Durham,North Carolina,Durham
+North Carolina,"Charlotte, North Carolina",2010,,162905.0,Charlotte,North Carolina,Charlotte
+North Carolina,"Cary, North Carolina",2010,,38934.0,Cary,North Carolina,Cary
+North Carolina,"Burlington, North Carolina",2010,,18790.0,Burlington,North Carolina,Burlington
+North Dakota,"Williston, North Dakota",2010,,24586.0,Williston,North Dakota,Williston
+North Dakota,"Stanley, North Dakota",2010,,4549.0,Stanley,North Dakota,Stanley
+North Dakota,"Rugby, North Dakota",2010,,6409.0,Rugby,North Dakota,Rugby
+North Dakota,"Minot, North Dakota",2010,,40360.0,Minot,North Dakota,Minot
+North Dakota,"Grand Forks, North Dakota",2010,,19751.0,Grand Forks,North Dakota,Grand Forks
+North Dakota,"Fargo, North Dakota",2010,,21286.0,Fargo,North Dakota,Fargo
+North Dakota,"Devils Lake, North Dakota",2010,,6148.0,Devils Lake,North Dakota,Devils Lake
+Ohio,"Toledo, Ohio",2010,,65667.0,Toledo,Ohio,Toledo
+Ohio,"Sandusky, Ohio",2010,,7826.0,Sandusky,Ohio,Sandusky
+Ohio,"Elyria, Ohio",2010,,4862.0,Elyria,Ohio,Elyria
+Ohio,"Cleveland, Ohio",2010,,44075.0,Cleveland,Ohio,Cleveland
+Ohio,"Cincinnati, Ohio",2010,,14228.0,Cincinnati,Ohio,Cincinnati
+Ohio,"Bryan, Ohio",2010,,6562.0,Bryan,Ohio,Bryan
+Ohio,"Alliance, Ohio",2010,,3641.0,Alliance,Ohio,Alliance
+Oklahoma,"Purcell, Oklahoma",2010,,2263.0,Purcell,Oklahoma,Purcell
+Oklahoma,"Pauls Valley, Oklahoma",2010,,5777.0,Pauls Valley,Oklahoma,Pauls Valley
+Oklahoma,"Oklahoma City, Oklahoma",2010,,55230.0,Oklahoma City,Oklahoma,Oklahoma City
+Oklahoma,"Norman, Oklahoma",2010,,14119.0,Norman,Oklahoma,Norman
+Oklahoma,"Ardmore, Oklahoma",2010,,9324.0,Ardmore,Oklahoma,Ardmore
+Oregon,"Salem, Oregon",2010,,61907.0,Salem,Oregon,Salem
+Oregon,"Portland, Oregon",2010,,672608.0,Portland,Oregon,Portland
+Oregon,"Oregon City, Oregon",2010,,8978.0,Oregon City,Oregon,Oregon City
+Oregon,"Klamath Falls, Oregon",2010,,31786.0,Klamath Falls,Oregon,Klamath Falls
+Oregon,"Eugene, Oregon",2010,,110633.0,Eugene,Oregon,Eugene
+Oregon,"Chemult, Oregon",2010,,9098.0,Chemult,Oregon,Chemult
+Oregon,"Albany, Oregon",2010,,38359.0,Albany,Oregon,Albany
+Pennsylvania,"Tyrone, Pennsylvania",2010,,3322.0,Tyrone,Pennsylvania,Tyrone
+Pennsylvania,"Pittsburgh, Pennsylvania",2010,,136333.0,Pittsburgh,Pennsylvania,Pittsburgh
+Pennsylvania,"Philadelphia-North, Pennsylvania",2010,,345.0,Philadelphia-North,Pennsylvania,Philadelphia-North
+Pennsylvania,"Philadelphia William H. Gray III 30th Street, Pennsylvania",2010,,3787331.0,Philadelphia William H. Gray III 30th Street,Pennsylvania,Philadelphia William H. Gray III 30th Street
+Pennsylvania,"Parkesburg, Pennsylvania",2010,,48784.0,Parkesburg,Pennsylvania,Parkesburg
+Pennsylvania,"Paoli, Pennsylvania",2010,,153154.0,Paoli,Pennsylvania,Paoli
+Pennsylvania,"Mount Joy, Pennsylvania",2010,,59650.0,Mount Joy,Pennsylvania,Mount Joy
+Pennsylvania,"Middletown, Pennsylvania",2010,,64354.0,Middletown,Pennsylvania,Middletown
+Pennsylvania,"Lewistown, Pennsylvania",2010,,9238.0,Lewistown,Pennsylvania,Lewistown
+Pennsylvania,"Latrobe, Pennsylvania",2010,,4118.0,Latrobe,Pennsylvania,Latrobe
+Pennsylvania,"Lancaster, Pennsylvania",2010,,514971.0,Lancaster,Pennsylvania,Lancaster
+Pennsylvania,"Johnstown, Pennsylvania",2010,,22779.0,Johnstown,Pennsylvania,Johnstown
+Pennsylvania,"Huntingdon, Pennsylvania",2010,,5794.0,Huntingdon,Pennsylvania,Huntingdon
+Pennsylvania,"Harrisburg, Pennsylvania",2010,,547257.0,Harrisburg,Pennsylvania,Harrisburg
+Pennsylvania,"Greensburg, Pennsylvania",2010,,14000.0,Greensburg,Pennsylvania,Greensburg
+Pennsylvania,"Exton, Pennsylvania",2010,,91093.0,Exton,Pennsylvania,Exton
+Pennsylvania,"Erie, Pennsylvania",2010,,14833.0,Erie,Pennsylvania,Erie
+Pennsylvania,"Elizabethtown, Pennsylvania",2010,,95096.0,Elizabethtown,Pennsylvania,Elizabethtown
+Pennsylvania,"Downingtown, Pennsylvania",2010,,59129.0,Downingtown,Pennsylvania,Downingtown
+Pennsylvania,"Cornwells Heights, Pennsylvania",2010,,4890.0,Cornwells Heights,Pennsylvania,Cornwells Heights
+Pennsylvania,"Connellsville, Pennsylvania",2010,,4754.0,Connellsville,Pennsylvania,Connellsville
+Pennsylvania,"Coatesville, Pennsylvania",2010,,14382.0,Coatesville,Pennsylvania,Coatesville
+Pennsylvania,"Ardmore, Pennsylvania",2010,,53245.0,Ardmore,Pennsylvania,Ardmore
+Pennsylvania,"Altoona, Pennsylvania",2010,,25185.0,Altoona,Pennsylvania,Altoona
+Rhode Island,"Westerly, Rhode Island",2010,,38589.0,Westerly,Rhode Island,Westerly
+Rhode Island,"Providence, Rhode Island",2010,,602474.0,Providence,Rhode Island,Providence
+Rhode Island,"Kingston, Rhode Island",2010,,151954.0,Kingston,Rhode Island,Kingston
+South Carolina,"Yemassee, South Carolina",2010,,13516.0,Yemassee,South Carolina,Yemassee
+South Carolina,"Spartanburg, South Carolina",2010,,4955.0,Spartanburg,South Carolina,Spartanburg
+South Carolina,"Kingstree, South Carolina",2010,,14153.0,Kingstree,South Carolina,Kingstree
+South Carolina,"Greenville, South Carolina",2010,,17490.0,Greenville,South Carolina,Greenville
+South Carolina,"Florence, South Carolina",2010,,47344.0,Florence,South Carolina,Florence
+South Carolina,"Dillon, South Carolina",2010,,8463.0,Dillon,South Carolina,Dillon
+South Carolina,"Denmark, South Carolina",2010,,4485.0,Denmark,South Carolina,Denmark
+South Carolina,"Columbia, South Carolina",2010,,36297.0,Columbia,South Carolina,Columbia
+South Carolina,"Clemson, South Carolina",2010,,6941.0,Clemson,South Carolina,Clemson
+South Carolina,"Charleston, South Carolina",2010,,79806.0,Charleston,South Carolina,Charleston
+South Carolina,"Camden, South Carolina",2010,,3588.0,Camden,South Carolina,Camden
+Tennessee,"Newbern-Dyersberg, Tennessee",2010,,3504.0,Newbern-Dyersberg,Tennessee,Newbern-Dyersberg
+Tennessee,"Memphis, Tennessee",2010,,62915.0,Memphis,Tennessee,Memphis
+Texas,"Temple, Texas",2010,,15426.0,Temple,Texas,Temple
+Texas,"Taylor, Texas",2010,,4551.0,Taylor,Texas,Taylor
+Texas,"Sanderson, Texas",2010,,216.0,Sanderson,Texas,Sanderson
+Texas,"San Marcos, Texas",2010,,5283.0,San Marcos,Texas,San Marcos
+Texas,"San Antonio, Texas",2010,,58131.0,San Antonio,Texas,San Antonio
+Texas,"Mineola, Texas",2010,,6568.0,Mineola,Texas,Mineola
+Texas,"McGregor, Texas",2010,,4240.0,McGregor,Texas,McGregor
+Texas,"Marshall, Texas",2010,,8709.0,Marshall,Texas,Marshall
+Texas,"Longview, Texas",2010,,34033.0,Longview,Texas,Longview
+Texas,"Houston, Texas",2010,,18351.0,Houston,Texas,Houston
+Texas,"Gainesville, Texas",2010,,8603.0,Gainesville,Texas,Gainesville
+Texas,"Fort Worth, Texas",2010,,118199.0,Fort Worth,Texas,Fort Worth
+Texas,"El Paso, Texas",2010,,10415.0,El Paso,Texas,El Paso
+Texas,"Del Rio, Texas",2010,,1881.0,Del Rio,Texas,Del Rio
+Texas,"Dallas, Texas",2010,,47053.0,Dallas,Texas,Dallas
+Texas,"Cleburne, Texas",2010,,3130.0,Cleburne,Texas,Cleburne
+Texas,"Beaumont, Texas",2010,,2135.0,Beaumont,Texas,Beaumont
+Texas,"Austin, Texas",2010,,31968.0,Austin,Texas,Austin
+Texas,"Alpine, Texas",2010,,3862.0,Alpine,Texas,Alpine
+Utah,"Salt Lake City, Utah",2010,,38773.0,Salt Lake City,Utah,Salt Lake City
+Utah,"Provo, Utah",2010,,5133.0,Provo,Utah,Provo
+Utah,"Helper, Utah",2010,,1808.0,Helper,Utah,Helper
+Utah,"Green River, Utah",2010,,2825.0,Green River,Utah,Green River
+Vermont,"Windsor, Vermont",2010,,1154.0,Windsor,Vermont,Windsor
+Vermont,"White River Junction, Vermont",2010,,16352.0,White River Junction,Vermont,White River Junction
+Vermont,"Waterbury, Vermont",2010,,5129.0,Waterbury,Vermont,Waterbury
+Vermont,"St. Albans, Vermont",2010,,3481.0,St. Albans,Vermont,St. Albans
+Vermont,"Rutland, Vermont",2010,,16235.0,Rutland,Vermont,Rutland
+Vermont,"Randolph, Vermont",2010,,1860.0,Randolph,Vermont,Randolph
+Vermont,"Montpelier, Vermont",2010,,7497.0,Montpelier,Vermont,Montpelier
+Vermont,"Fair Haven, Vermont",2010,,827.0,Fair Haven,Vermont,Fair Haven
+Vermont,"Essex Junction, Vermont",2010,,22857.0,Essex Junction,Vermont,Essex Junction
+Vermont,"Castleton, Vermont",2010,,1733.0,Castleton,Vermont,Castleton
+Vermont,"Brattleboro, Vermont",2010,,15479.0,Brattleboro,Vermont,Brattleboro
+Vermont,"Bellows Falls, Vermont",2010,,4652.0,Bellows Falls,Vermont,Bellows Falls
+Virginia,"Woodbridge, Virginia",2010,,11250.0,Woodbridge,Virginia,Woodbridge
+Virginia,"Williamsburg, Virginia",2010,,47176.0,Williamsburg,Virginia,Williamsburg
+Virginia,"Staunton, Virginia",2010,,5860.0,Staunton,Virginia,Staunton
+Virginia,"Richmond - Staples Mill, Virginia",2010,,266343.0,Richmond - Staples Mill,Virginia,Richmond - Staples Mill
+Virginia,"Richmond - Main Street, Virginia",2010,,27520.0,Richmond - Main Street,Virginia,Richmond - Main Street
+Virginia,"Quantico, Virginia",2010,,23560.0,Quantico,Virginia,Quantico
+Virginia,"Petersburg, Virginia",2010,,22148.0,Petersburg,Virginia,Petersburg
+Virginia,"Newport News, Virginia",2010,,116229.0,Newport News,Virginia,Newport News
+Virginia,"Manassas, Virginia",2010,,16239.0,Manassas,Virginia,Manassas
+Virginia,"Lynchburg, Virginia",2010,,58348.0,Lynchburg,Virginia,Lynchburg
+Virginia,"Lorton (Auto Train), Virginia",2010,,244252.0,Lorton (Auto Train),Virginia,Lorton (Auto Train)
+Virginia,"Fredericksburg, Virginia",2010,,56427.0,Fredericksburg,Virginia,Fredericksburg
+Virginia,"Franconia-Springfield, Virginia",2010,,2103.0,Franconia-Springfield,Virginia,Franconia-Springfield
+Virginia,"Danville, Virginia",2010,,8658.0,Danville,Virginia,Danville
+Virginia,"Culpeper, Virginia",2010,,8848.0,Culpeper,Virginia,Culpeper
+Virginia,"Clifton Forge, Virginia",2010,,3022.0,Clifton Forge,Virginia,Clifton Forge
+Virginia,"Charlottesville, Virginia",2010,,91707.0,Charlottesville,Virginia,Charlottesville
+Virginia,"Burke Centre, Virginia",2010,,1156.0,Burke Centre,Virginia,Burke Centre
+Virginia,"Ashland, Virginia",2010,,19163.0,Ashland,Virginia,Ashland
+Virginia,"Alexandria, Virginia",2010,,139837.0,Alexandria,Virginia,Alexandria
+Washington,"Wishram, Washington",2010,,1580.0,Wishram,Washington,Wishram
+Washington,"Wenatchee, Washington",2010,,16912.0,Wenatchee,Washington,Wenatchee
+Washington,"Vancouver, Washington",2010,,100979.0,Vancouver,Washington,Vancouver
+Washington,"Tukwila, Washington",2010,,24567.0,Tukwila,Washington,Tukwila
+Washington,"Tacoma, Washington",2010,,128674.0,Tacoma,Washington,Tacoma
+Washington,"Stanwood, Washington",2010,,4396.0,Stanwood,Washington,Stanwood
+Washington,"Spokane, Washington",2010,,50279.0,Spokane,Washington,Spokane
+Washington,"Seattle, Washington",2010,,677953.0,Seattle,Washington,Seattle
+Washington,"Pasco, Washington",2010,,25891.0,Pasco,Washington,Pasco
+Washington,"Olympia/Lacey, Washington",2010,,62234.0,Olympia/Lacey,Washington,Olympia/Lacey
+Washington,"Mount Vernon, Washington",2010,,18849.0,Mount Vernon,Washington,Mount Vernon
+Washington,"Leavenworth, Washington",2010,,9574.0,Leavenworth,Washington,Leavenworth
+Washington,"Kelso-Longview, Washington",2010,,28761.0,Kelso-Longview,Washington,Kelso-Longview
+Washington,"Everett, Washington",2010,,45449.0,Everett,Washington,Everett
+Washington,"Ephrata, Washington",2010,,3543.0,Ephrata,Washington,Ephrata
+Washington,"Edmonds, Washington",2010,,32668.0,Edmonds,Washington,Edmonds
+Washington,"Centralia, Washington",2010,,23948.0,Centralia,Washington,Centralia
+Washington,"Bingen-White Salmon, Washington",2010,,3245.0,Bingen-White Salmon,Washington,Bingen-White Salmon
+Washington,"Bellingham, Washington",2010,,63683.0,Bellingham,Washington,Bellingham
+West Virginia,"White Sulphur Springs, West Virginia",2010,,4654.0,White Sulphur Springs,West Virginia,White Sulphur Springs
+West Virginia,"Thurmond, West Virginia",2010,,230.0,Thurmond,West Virginia,Thurmond
+West Virginia,"Prince, West Virginia",2010,,3364.0,Prince,West Virginia,Prince
+West Virginia,"Montgomery, West Virginia",2010,,936.0,Montgomery,West Virginia,Montgomery
+West Virginia,"Martinsburg, West Virginia",2010,,6986.0,Martinsburg,West Virginia,Martinsburg
+West Virginia,"Huntington, West Virginia",2010,,11345.0,Huntington,West Virginia,Huntington
+West Virginia,"Hinton, West Virginia",2010,,8803.0,Hinton,West Virginia,Hinton
+West Virginia,"Harpers Ferry, West Virginia",2010,,4618.0,Harpers Ferry,West Virginia,Harpers Ferry
+West Virginia,"Charleston, West Virginia",2010,,9507.0,Charleston,West Virginia,Charleston
+West Virginia,"Alderson, West Virginia",2010,,705.0,Alderson,West Virginia,Alderson
+Wisconsin,"Wisconsin Dells, Wisconsin",2010,,13609.0,Wisconsin Dells,Wisconsin,Wisconsin Dells
+Wisconsin,"Tomah, Wisconsin",2010,,10892.0,Tomah,Wisconsin,Tomah
+Wisconsin,"Sturtevant, Wisconsin",2010,,70737.0,Sturtevant,Wisconsin,Sturtevant
+Wisconsin,"Portage, Wisconsin",2010,,7483.0,Portage,Wisconsin,Portage
+Wisconsin,"Milwaukee, Wisconsin",2010,,588617.0,Milwaukee,Wisconsin,Milwaukee
+Wisconsin,"Milwaukee Airport, Wisconsin",2010,,155726.0,Milwaukee Airport,Wisconsin,Milwaukee Airport
+Wisconsin,"La Crosse, Wisconsin",2010,,31666.0,La Crosse,Wisconsin,La Crosse
+Wisconsin,"Columbus, Wisconsin",2010,,18025.0,Columbus,Wisconsin,Columbus
