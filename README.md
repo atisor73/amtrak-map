@@ -23,6 +23,8 @@ Pull requests are welcome!
 
 *Note: Everything was done and verified by hand except for the mileage approximations, which were approximated with GPT5.2.*
 
+Overlay visualization and analysis © 2026 Rosita Fu.
+
 <!-- Links:
 https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/privatecars/Amtrak-Mileage-Record-Information-100124.pdf
 https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/corporate/monthlyperformancereports/2025/Amtrak-Monthly-Performance-Report-September-2025.pdf
